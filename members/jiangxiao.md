@@ -4,7 +4,7 @@
 
 ![Xiao, Jiang](./images/Xiao%2C%20Jiang.jpeg)
 
-**Basics**
+### Basics
 * Name: XIAO, JIANG / 蕭 江 / 肖 江
 * Email: xiaojiang [at] fudan.edu.cn
 * Phone: +86-21-31245235 (O)
@@ -18,13 +18,13 @@ Fudan University (Jiangwan Campus), Shanghai 200438, China
 * Family: Married and one daughter (2012, 形知) and one son (2015, 知行) 
 -->
 
-**Employment**
+### Employment
 * 01/2015 – Now: Xie Xide Junior Professor  (谢希德青年教授) – Department of Physics, Fudan University, Shanghai, China
 * 12/2012 – 12/2014: Professor – Department of Physics, Fudan University, Shanghai, China
 * 10/2009 – 12/2012: Associate Professor – Department of Physics, Fudan University,  Shanghai, China
 * 11/2006 – 08/2009: Postdoc – Theoretical Physics Group (Gerrit Bauer’s group), Kavli Institute of NanoScience, Delft University of Technology, Delft, The Netherlands
 
-**Education**
+### Education
 
 * 2001 – 2006: Ph.D. in Physics - Georgia Institute of Technology, Atlanta GA, USA
     - Advisors: Prof. Andrew Zangwill (Georgia Tech) & Dr. Mark Stiles (NIST)
@@ -32,7 +32,7 @@ Fudan University (Jiangwan Campus), Shanghai 200438, China
 * 2002 – 2005: M.S. in Applied Mathematics - Georgia Institute of Technology, Atlanta GA, USA
 * 1997 – 2001: B.S. in Physics - Peking University, Beijing, China
 
-**Misc.** 
+### Misc. 
 
 I am a geography fan. I like geography since very young age, so I always have a huge world map in my room. I used to take the Geography Quiz from time to time. I have submitted correct answers a couple of times, four of which 
 * [Bergen, Norway](./resources/Geoquiz_Bergen.jpg) 

@@ -32,6 +32,5 @@ The research interests of Group X includes spin transport in magnetic heterostru
 ## Teaching
 
 * [Fudan Courses](./teaching/fudan_courses.md)
-
 * [Group X Courses](./teaching/x_courses.md)
 

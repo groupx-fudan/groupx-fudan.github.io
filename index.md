@@ -14,7 +14,7 @@ We focus on research on spintronics, which studies how to control and manipulate
 
 * [Alumni](./members/alumni.md)
 
-We have opennings for Postdocs. 
+We have opennings for Postdocs. If interested, please contact us. 
 
 ## Research 
 

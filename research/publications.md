@@ -1,4 +1,4 @@
-**List of Publications**
+## **List of Publications**
 
 ***
 

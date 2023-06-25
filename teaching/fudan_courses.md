@@ -1,4 +1,4 @@
-**Group X Courses**
+## **Group X Courses**
 
 ***
 

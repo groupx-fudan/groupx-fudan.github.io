@@ -6,7 +6,7 @@ layout: default
 
 This is the website for Group X, a theoretical spintronics group at Fudan University. 
 
-Group X is led by Prof. Jiang Xiao. We focus on research on spintronics, which studies how to control and manipulate spin degrees of freedom. Please check the research page on what we do, and we encourage talented students to apply for graduate study or postdocs.
+Group X is led by [Prof. Jiang Xiao](./members/jiangxiao.md). We focus on research on spintronics, which studies how to control and manipulate spin degrees of freedom. Please check the research section on what we do, and we encourage talented students to apply for graduate study or postdocs.
 
 # Members
 

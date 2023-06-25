@@ -2,6 +2,8 @@
 
 ***
 
+![Xiao, Jiang](./images/Xiao%2C%20Jiang.jpeg)
+
 **Basics**
 * Name: XIAO, JIANG / 蕭 江 / 肖 江
 * Year of Birth: 1979

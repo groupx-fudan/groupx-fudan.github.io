@@ -29,7 +29,7 @@ Group X is led by [Prof. Jiang Xiao](./members/jiangxiao.md). We focus on resear
 The research interests of Group X includes spin transport in magnetic heterostructures, spin wave or magnonics, and more recently realizing various types of unconventional computing (such as neuromorphic, probabilisitc, wave, quantum computing) based on spin systems.
  
 * [Publications](./research/publications.html)
-* Talks
+* [Talks](./research/talks.md)
 * [Patents](./research/patents.md)
 * Grants
 

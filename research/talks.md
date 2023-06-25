@@ -5,36 +5,44 @@
 INVITED TALKS ON CONFERENCES, WORKSHOPS, SCHOOLS
 
 * 2022
-    - Antiferromagnetic Resonance Revisited - A spectrum of level attraction, 06/22 - 06/23/2022, _ICMM 2022, International Conference on Microwave Magnetics_, Beijing (online), China
-    - Antiferromagnetic Resonance Revisited - A non-hermitian spectrum in a hermitian system, 01/19/2022, _Young Leaders Workshop: Emerging Quantum Spintronics_, South Korea
+    - Antiferromagnetic Resonance Revisited - A spectrum of level attraction \
+    06/22 - 06/23/2022, _ICMM 2022, International Conference on Microwave Magnetics_, Beijing (online), China
+
+    - Antiferromagnetic Resonance Revisited - A non-hermitian spectrum in a hermitian system \
+    01/19/2022, _Young Leaders Workshop: Emerging Quantum Spintronics_, South Korea
 
 * 2021
-    - Random Thoughts on  Antiferromagnet, 07/15 - 07/21/2021, _反铁磁自旋电子学研讨会_，青海西宁
-    - Magnetic Texture based Magnonics and Applications
-    04/07/2021, _第一届应用物理论坛_, 江苏溧阳
+    - Random Thoughts on  Antiferromagnet \
+    07/15 - 07/21/2021, _反铁磁自旋电子学研讨会_，青海西宁
+
+    - Magnetic Texture based Magnonics and Applications \
+    04/07/2021, _第一届应用物理论坛_, 江苏溧阳 \
     05/19/2021, _北京大学物理学院_，北京
 
 * 2020
-    - Theoretical Concepts in Spintronics
-07/13 - 23/2020, 第六届凝聚态物理暑期学校  Summer School on Condensed Matter Physics, 复旦大学 (online)
-08/17/2020, 江苏省研究生暑期学校 (Video I, II from Koushare, slides)
-    - Revisiting the coupled oscillator - applications in spin cavitronics
-01/07/2020, 南京大学
-01/07/2020, 南京师范大学
+    - Theoretical Concepts in Spintronics \ 
+    07/13 - 23/2020, 第六届凝聚态物理暑期学校  Summer School on Condensed Matter Physics, 复旦大学 (online) \ 
+    08/17/2020, 江苏省研究生暑期学校 (Video I, II from Koushare, slides)
+
+    - Revisiting the coupled oscillator - applications in spin cavitronics \
+    01/07/2020, 南京大学 \
+    01/07/2020, 南京师范大学
 
 * 2019
-    - Attractive level crossing via dissipative coupling
-11/30 - 12/1/2019, 第三届自旋量子态调控青年科技论坛, 苏州, China
+    - Attractive level crossing via dissipative coupling \
+    11/30 - 12/1/2019, 第三届自旋量子态调控青年科技论坛, 苏州, China
 
-    - Level attraction via dissipative coupling - Applications on spin cavitronics
-10/20 – 10/25/2019, Spin Peru, Ollantaytambo, Cusco, Peru
+    - Level attraction via dissipative coupling - Applications on spin cavitronics \ 
+    10/20 – 10/25/2019, Spin Peru, Ollantaytambo, Cusco, Peru
 
-    - Magnetic texture based magnonics [Video from Koushare]
-7/19 – 7/23/2019, International Workshop on Emerging Electronic Materials and Devices (EEMD), Zhangjiajie, Hunan Prov., China
-    - Magnetic texture based magnonics
-2/25 – 2/28/2019, Spin Mechanics 6, Zao, Japan
-    - Magnetic texture based magnonics [Video from Koushare]
-1/11 – 1/13/2019, 凝聚态物理“南方论坛”, 深圳, China
+    - Magnetic texture based magnonics [Video from Koushare] \ 
+    7/19 – 7/23/2019, International Workshop on Emerging Electronic Materials and Devices (EEMD), Zhangjiajie, Hunan Prov., China
+
+    - Magnetic texture based magnonics \ 
+    2/25 – 2/28/2019, Spin Mechanics 6, Zao, Japan
+
+    - Magnetic texture based magnonics [Video from Koushare] \ 
+    1/11 – 1/13/2019, 凝聚态物理“南方论坛”, 深圳, China
 
 * 2018
     - Magnetic texture based magnonics

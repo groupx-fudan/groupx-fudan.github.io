@@ -13,14 +13,14 @@ Group X is led by Prof. Jiang Xiao. We focus on research on spintronics, which s
 - PI: [Prof. Jiang Xiao](./members/jiangxiao.md)
 
 - PhD Students: 
-    - Liu Yunwen (2019 ~ )
-    - Wang Jiongjie (2019 ~ ) 
-    - Wang Yutian (2019 ~ ) 
-    - Xia Zi'an (2021 ~ )
+    - Liu Yunwen (2019 - )
+    - Wang Jiongjie (2019 - ) 
+    - Wang Yutian (2019 - ) 
+    - Xia Zi'an (2021 - )
 
 - Undergraduate Students: 
-    - Ma Ruoban (2022 ~ ) 
-    - Huang Rongzhi (2023 ~ )
+    - Ma Ruoban (2022 - ) 
+    - Huang Rongzhi (2023 - )
 
 * [Alumni](./members/alumni.md)
 
@@ -30,7 +30,7 @@ The research interests of Group X includes spin transport in magnetic heterostru
  
 * [Publications](./research/publications.html)
 * Talks
-* Patents
+* [Patents](./research/patents.md)
 * Grants
 
 # Teaching
@@ -42,18 +42,4 @@ The research interests of Group X includes spin transport in magnetic heterostru
     - College Physics B
 
 - Group X Courses
-    - 2023 Spring: The hundred-page machine learning book 
-    - 2022 Fall: The variational principles of mechanics
-    - 2022 Spring: Superconductivity
-    - 2021 Fall: Non-Hermitian Physics
-    - 2021 Spring: Synchronization
-Discourse on Fourier Series
-    - 2020 Fall: Discourse on Fourier series
-    - 2019 Fall: Micromagnetics with COMSOL
-    - 2019 Fall: The Versatile Soliton
-    - 2019 Spring: Introduction to Superconducting Quantum Computation
-    - 2018 Fall: Introduction to Quantum Computation and Information
-    - 2017 Fall: Micromagnetics with COMSOL
-nn
-    - 2017 Spring: Introduction to Neural Networks
-    - 2016 Fall: Solid State Physics
+    - We held group study on various topic every semester. Check out this [list](./teaching/x_courses.md) for past studies.

@@ -25,7 +25,7 @@ Group X is led by Prof. Jiang Xiao. We focus on research on spintronics, which s
     - Ma Ruoban (2022 ~ ) 
     - Huang Rongzhi (2023 ~ )
 
-* Alumni:
+* [Alumni](./members/alumni.md)
 
 # Research 
 

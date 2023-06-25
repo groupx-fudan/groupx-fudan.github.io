@@ -2,6 +2,8 @@
 
 ***
 
+We held group study on various topic every semester. 
+
 * 2023 Spring: Mathematical physics: a modern introduction to its foundations 
     - Materials: Hassani, S. Mathematical physics: a modern introduction to its foundations. (Springer, 2013).
     - Duration: 05/2023 - 

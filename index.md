@@ -14,6 +14,8 @@ We focus on research on spintronics, which studies how to control and manipulate
 
 * [Alumni](./members/alumni.md)
 
+We have opennings for Postdocs. 
+
 ## Research 
 
 The research interests of Group X includes spin transport in magnetic heterostructures, spin wave or magnonics, and more recently realizing various types of unconventional computing (such as neuromorphic, probabilisitc, wave, quantum computing) based on spin systems.

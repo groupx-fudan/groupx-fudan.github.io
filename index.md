@@ -8,9 +8,15 @@ We focus on research on spintronics, which studies how to control and manipulate
 
 * Principle Investigator : [Prof. Jiang Xiao](./members/jiangxiao.md)
 
-* PhD Students: Liu Yunwen (2019 - ), Wang Jiongjie (2019 - ),  Wang Yutian (2019 - ),  Xia Zi'an (2021 - ). 
+* PhD Students: 
+    > Liu Yunwen (2019 - ) <br> 
+    > Wang Jiongjie (2019 - ) <br>  
+    > Wang Yutian (2019 - ) <br>  
+    > Xia Zi'an (2021 - ) 
 
-* Undergraduate Students: Ma Ruoban (2022 - ), Huang Rongzhi (2023 - ).
+* Undergraduate Students: 
+    > Ma Ruoban (2022 - ) <br> 
+    > Huang Rongzhi (2023 - )
 
 * [Alumni](./members/alumni.md)
 
@@ -27,11 +33,9 @@ The research interests of Group X includes spin transport in magnetic heterostru
 
 ## Teaching
 
-* [Fudan Courses](./teaching/fudan_courses.md)
-
+* [Fudan Courses](./teaching/fudan_courses.md) <br>
     I mostly teach the 2-semester undergraduate course on Quantum Mechanics. In recent years, I had been experimenting the flipped classroom teaching for the Quantum Mechanics. <br>
     I've also taught College Physics and Advanced Electrodynamics. 
 
-* [Group X Courses](./teaching/x_courses.md)
-
+* [Group X Courses](./teaching/x_courses.md) <br>
     In our group, we also organize group study every semester on various topics, including Quantum Information and Computation, Solitons, Fourier Transform, Solid State Physics, Non-Hermitian physics, Non-linear physics, Machine Learning, etc.

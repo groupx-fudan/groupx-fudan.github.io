@@ -29,7 +29,8 @@ The research interests of Group X includes spin transport in magnetic heterostru
 
 * [Fudan Courses](./teaching/fudan_courses.md)
 
-    In recent years, I mostly teach the 2-semester undergraduate course on Quantum Mechanics. I've also taught College Physics and Advanced Electrodynamics. 
+    I mostly teach the 2-semester undergraduate course on Quantum Mechanics. In recent years, I had been experimenting the flipped classroom teaching for the Quantum Mechanics. <br>
+    I've also taught College Physics and Advanced Electrodynamics. 
 
 * [Group X Courses](./teaching/x_courses.md)
 

@@ -1,4 +1,4 @@
-## **Group X Courses**
+## **Fudan Courses**
 
 ***
 

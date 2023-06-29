@@ -25,16 +25,16 @@ We have opennings for Postdocs. If interested, please contact us.
 
 The research interests of Group X includes spin transport in magnetic heterostructures, spin wave or magnonics, and more recently realizing various types of unconventional computing (such as neuromorphic, probabilisitc, wave, quantum computing) based on spin systems.
  
-* [Publications](./research/publications.html)
-* [Talks](./research/talks.md)
-* [Patents](./research/patents.md)
+- [Publications](./research/publications.html)
+- [Talks](./research/talks.md)
+- [Patents](./research/patents.md)
 
 ## Teaching
 
-### [Fudan Courses](./teaching/fudan_courses.md)
+- [Fudan Courses](./teaching/fudan_courses.md)
 
     In recent years, I mostly teach the 2-semester undergraduate course on Quantum Mechanics. I've also taught College Physics and Advanced Electrodynamics. 
 
-### [Group X Courses](./teaching/x_courses.md)
+- [Group X Courses](./teaching/x_courses.md)
 
     In our group, we also organize group study every semester on various topics, including Quantum Information and Computation, Solitons, Fourier Transform, Solid State Physics, Non-Hermitian physics, Non-linear physics, Machine Learning, etc.

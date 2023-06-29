@@ -5,7 +5,7 @@ We focus on research on spintronics, which studies how to control and manipulate
 
 ## Members
 
-- Principle Investigator : [Prof. Jiang Xiao](./members/jiangxiao.md)
+- Principle Investigator : [Jiang Xiao](./members/jiangxiao.md)
 
 - PhD Students: 
     - Liu Yunwen (2019 - ) 

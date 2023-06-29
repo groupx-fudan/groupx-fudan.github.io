@@ -38,6 +38,3 @@ The research interests of Group X includes spin transport in magnetic heterostru
 * [Group X Courses](./teaching/x_courses.md)
 
     In our group, we also organize group study every semester on various topics, including Quantum Information and Computation, Solitons, Fourier Transform, Solid State Physics, Non-Hermitian physics, Non-linear physics, Machine Learning, etc.
-
-[test link](./groupx/index.md)
-

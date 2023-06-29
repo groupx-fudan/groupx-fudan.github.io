@@ -1,11 +1,19 @@
-# Micromagnetic Module on COMSOL Multiphysics
+# Micromagnetic Module on COMSOL
 
 Micromagnetic simulation is an important numerical methods in studying magnetization or spin wave dynamics. The essential task is to solve the non-linear semi-classical Landau-Lifshitz-Gilbert equation in various geometries and magnetic texture configurations. There are several excellent micromagnetic simulation packages, such as OOMMF, MuMax3, … Most of these packages use the finite difference method (FDM), which discretize the geometry into regular cubiod mesh. A more efficient spatial discretization method is the finite element method (FEM). 
 
 We developed the Micromagnetics Module, a new micromagnetic simulation package based on the COMSOL platform, which provides an excellent finite element analysis and model designing tools. The Micromagnetics Module built upon COMSOL can be integrated straightforwardly with other physical modules within COMSOL such as the Solid Mechanics Module  (for magneto-elastic coupling) and AC/DC or RF Module (for electromagnetics, cavity spintronics).
 
-The Micromagnetics Module is mainly developed and maintained by Dr. Weichao Yu, started from his PhD study under supervision of [Prof. Jiang Xiao](../members/jiangxiao.md). For more information, please visit the [COMSOL blog](https://www.comsol.com/blogs/micromagnetic-simulation-with-comsol-multiphysics/) 
+For more information, please visit the [COMSOL blog](https://www.comsol.com/blogs/micromagnetic-simulation-with-comsol-multiphysics/) 
 ([中文版](https://cn.comsol.com/blogs/micromagnetic-simulation-with-comsol-multiphysics/)).
+
+## Developers
+
+- Dr. Weichao Yu
+- Mr. Jiabin Zhang
+- Prof. Jiang Xiao
+
+This Micromagnetic Module is mainly developed and maintained by Dr. Weichao Yu, started from his PhD study under supervision of [Prof. Jiang Xiao](../members/jiangxiao.md). 
 
 ## Features
 
@@ -34,12 +42,11 @@ To install the Micromagnetics Module, a basic version of COMSOL Multiphysics® s
 ## Resources
 
 1. The module file along with the 
-[User’s Guide](http://www.physics.fudan.edu.cn/tps/people/jxiao/micromagnetics-module-users.pdf) 
-can be downloaded 
+User’s Guide can be downloaded 
 [here](https://www.jianguoyun.com/p/Dbm-n-QQqfTwCRjHpZAE) 
 with access password 'fudan'. 
 
-2. Module file and the User’s Guide can also be downloaded at the COMSOL Application Exchange [website](https://cn.comsol.com/community/exchange/883/).
+2. Module file and the User’s Guide can also be downloaded at the [COMSOL Application Exchange website](https://cn.comsol.com/community/exchange/883/).
 
 3. Files will also be updated at the project homepage of Dr. Weichao Yu on [ResearchGate](https://www.researchgate.net/project/Micromagnetics-Module). 
 Users are encouraged to leave comments and questions there to help us improve the module.

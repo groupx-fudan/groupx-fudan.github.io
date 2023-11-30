@@ -1,1 +1,7 @@
-# Academic template
+# About X
+
+# Memberts
+
+# Research
+
+# Teaching

@@ -3,9 +3,6 @@ permalink: /publications/
 title: "Publications"
 excerpt: "Publiations"
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
 ---
 
 1. Zhang, J., Yu, W., Chen, X. & __Xiao, J.__ A frequency-domain micromagnetic simulation module based on COMSOL Multiphysics. AIP Advances 13, 055108 (2023).

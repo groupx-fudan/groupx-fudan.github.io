@@ -13,11 +13,11 @@ author_profile: true
 {% endfor %}
  -->
 
-#### Principle Investigator
+### Principle Investigator
 
 * [Prof. XIAO, Jiang / 肖江](../_members/xiaojiang.md)
 
-#### Ph.D. Students
+### Ph.D. Students
 
 * Huang, Rongzhi / 黄荣郅 (2023 ~ )
 * Liu, Yunwen / 刘允文 (2019 ~)
@@ -26,7 +26,7 @@ author_profile: true
 * Wang, Jiongjie / 王炯杰 (2019 ~)
 * Xia, Zian / 夏子安 (2020 ~)
 
-### Alumni
+## Alumni
 
 * Chen, Xiheng / 陈锡恒 / Master (2022) 
 * Shu, Chang / 舒畅 / Undergrad. (2022)

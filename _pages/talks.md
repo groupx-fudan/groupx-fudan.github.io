@@ -2,7 +2,7 @@
 permalink: /talks/
 title: "Talks"
 excerpt: "Talks"
-author_profile: false
+author_profile: true
 ---
 
 ### INVITED TALKS ON CONFERENCES, WORKSHOPS, SCHOOLS

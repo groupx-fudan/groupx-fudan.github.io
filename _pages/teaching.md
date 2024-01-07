@@ -2,7 +2,7 @@
 permalink: /teaching/
 title: "Teaching"
 excerpt: "Teaching"
-author_profile: false
+author_profile: true
 ---
 
 ### Fudan Courses

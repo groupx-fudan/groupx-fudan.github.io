@@ -3,20 +3,22 @@ layout: archive
 title: "Members"
 permalink: /members/
 author_profile: true
+redirect_from: 
+  - /members/
+  - /members.html
 ---
 
-{% include base_path %}
+<!-- {% include base_path %}
 
 
 {% for post in site.members %}
   {% include archive-single.html %}
 {% endfor %}
-
-### Members
+ -->
 
 #### Principle Investigator
 
-* Prof. XIAO, Jiang
+* [Prof. XIAO, Jiang](../_members/Xiao,%20Jiang.md)
 
 #### Ph.D. Students
 

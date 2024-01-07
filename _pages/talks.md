@@ -193,19 +193,16 @@ author_profile: true
   01/02/2018, The University of Hong Kong, Hong Kong, China
 
 * Non-von Neumann Spin Wave Computing  
-  31/10/2017, Nanjing University, Nanjing, China 
-  
-  01/11/2017, Beijing University, Beijing, China 
-  
-  02/11/2017, Qingdao University, Qingdao, China 
-  
+  31/10/2017, Nanjing University, Nanjing, China   
+  01/11/2017, Beijing University, Beijing, China   
+  02/11/2017, Qingdao University, Qingdao, China   
   14/11/2017, Southern University of  Science and Technology of China, Shenzhen, China 
 
 * Spin transport in metallic thin films with spin-orbit coupling  
   23/05/2016, Institute of Physics, CAS, Beijing, China
 
 * Magnetic wafer based magnonics  
-  22/03/2016, Beijing Normal University, Beijing, China 
+  22/03/2016, Beijing Normal University, Beijing, China   
   23/03/2016, Tsignhua University, Beijing, China  
   24/03/2016, Institute of Physics, CAS, Beijing, China  
   24/03/2016, Peking University, Beijing, China  
@@ -220,7 +217,7 @@ author_profile: true
 * Spin pumping and spin-transfer torque in antiferromagnet  
   07/05/2015, Tongji University, Shanghai, China 
 
-* Spin Hall effect in mettalic thin films with surface roughness 
+* Spin Hall effect in mettalic thin films with surface roughness  
   12/10/2014, Nanjing University, Nanjing, China
 
 * Spin pumping and spin-transfer torque in antiferromagnet  

@@ -7,7 +7,8 @@ main:
     url: /members/
 
   - title: "Publications"
-    url: /publications/
+    url: /pages/publications.md
+    # url: /publications/
 
   - title: "Talks"
     url: /talks/

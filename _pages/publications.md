@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Publications"
+excerpt: "Publiations"
+author_profile: true
+redirect_from: 
+  - /publications/
+  - /publications.html
+---
+
 1. Zhang, J., Yu, W., Chen, X. & __Xiao, J.__ A frequency-domain micromagnetic simulation module based on COMSOL Multiphysics. AIP Advances 13, 055108 (2023).
 2. Lu, C. et al. An experimental demonstration of level attraction with coupled pendulums. American Journal of Physics 91, 585–594 (2023).
 3. Lan, J. & __Xiao, J.__ Spin wave driven domain wall motion in easy-plane ferromagnets: A particle perspective. Phys. Rev. B 106, L020404 (2022).

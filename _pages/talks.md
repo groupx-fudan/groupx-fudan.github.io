@@ -138,7 +138,7 @@ author_profile: true
 
 #### 2013
 
-* Current induced spin wave excitation in Pt|YIG bilayers 
+* Current induced spin wave excitation in Pt/YIG bilayers 
   * 09/12 – 09/15/2013, Chinese Physical Society Fall Meeting, Xiamen, Fujian, China
 
 * Spin Hall effect and electric polarization in metallic thin films 

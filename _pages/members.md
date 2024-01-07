@@ -27,9 +27,9 @@ author_profile: true
 
 ### Postdocs
 
-* To be filled
+* To be filled, if interested please contact 
 
-## Alumni
+### Alumni
 
 * Chen, Xiheng / 陈锡恒 / Master (2022) 
 * Shu, Chang / 舒畅 / Undergrad. (2022)

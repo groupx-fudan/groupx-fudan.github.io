@@ -234,7 +234,7 @@ Magnetic wafer based magnonics
 * Spin pumping in antiferromagnet & spin Hall effect by surface roughness
   * 07/23/2014, TU Delft, The Netherlands
 
-* Current-induced spin wave excitation in Pt|YIG bilayer
+* Current-induced spin wave excitation in Pt/YIG bilayer
   * 09/11/2013, ICQM, Peking University, Beijing, China
 
 * Spin wave excitations in ferromagnetic insulators

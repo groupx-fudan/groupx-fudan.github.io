@@ -12,6 +12,7 @@ redirect_from:
 #### Education
 * 1997 - 2001: B.S. in Physics, Peking University, Beijing, China
 * 2001 - 2006: Ph.D. in Physics, Georgia Institute of Technology, Atlanta GA, USA
+  * Supervisor: Prof. Andrew Zangwill \& Dr. Mark Stiles (NIST)
 * 2002 - 2006: M.S. in Applied Mathematics, Georgia Institute of Technology, Atlanta GA, USA
 
 #### Work experience

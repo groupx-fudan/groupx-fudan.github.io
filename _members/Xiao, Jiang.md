@@ -1,6 +1,6 @@
 ---
 title: "Xiao, Jiang"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/Xiao, Jiang.jpeg'>"
 collection: portfolio
 ---
 
@@ -25,18 +25,3 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 * 2006 - 2009: Postdoc
   * Kavli Institute of NanoScience, Delft University of Technology, The Netherlands
   * Supervisor: Professor Gerrit E. W. Bauer
-  
-### Publications
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-### Talks
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-### Teaching
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>

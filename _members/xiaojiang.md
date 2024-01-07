@@ -4,7 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/Xia
 collection: members
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<!-- This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  -->
 
 ### Education
 * 1997 - 2001: B.S. in Physics, Peking University, Beijing, China
@@ -25,3 +25,17 @@ This is an item in your portfolio. It can be have images or nice text. If you na
 * 2006 - 2009: Postdoc
   * Kavli Institute of NanoScience, Delft University of Technology, The Netherlands
   * Supervisor: Professor Gerrit E. W. Bauer
+
+### Misc.
+
+I am a geography fan. I like geography since very young age, so I always have a huge world map in my room. I used to take the Geography Quiz from time to time. I have submitted correct answers a couple of times, four of which
+1. Bergen, Norway  [text in red are visible after correct answers are submitted],
+2. The Republic of Kirabati, 
+3. Hania, Crete Island, Greece,
+4. Pyongyang, North Korea,
+
+were the first correct answers submitted, so I won 4 x 100$ prize from the website. Maybe because of the above reason, I am also enthusiastic about traveling. So far, I’ve travelled to over 30 countries across 5 continents, including
+1. Asia (11): China, Thailand, Cambodia, Vietnam, Iran, Japan, Turkey, Israel, Singapore, South Korea, Saudi Arabia. 
+2. Europe (18): The Netherlands, Norway, Spain, Belgium, Greece, France, Monaco, Germany, United Kingdom, Austria, Denmark, Hungary, Slovakia, Poland, Cezch Republic, Italy, Switzerland, Russia.
+3. North/South America (6): United States, Mexico, Argentina, Panama, Canada, Peru.
+4. Africa (1): Kenya.

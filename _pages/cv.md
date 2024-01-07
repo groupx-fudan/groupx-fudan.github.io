@@ -11,31 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 1997 - 2001: B.S. in Physics, Peking University, Beijing, China
+* 2001 - 2006: Ph.D. in Physics, Georgia Institute of Technology, Atlanta GA, USA
+* 2002 - 2006: M.S. in Applied Mathematics, Georgia Institute of Technology, Atlanta GA, USA
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015 - Present: 'Xie Xide Junior' Professor
+  * Deparmtent of Physics, Fudan University, Shanghai, China
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012 - 2015: Professor
+  * Deparmtent of Physics, Fudan University, Shanghai, China
+
+* 2009 - 2012: Associate Professor
+  * Deparmtent of Physics, Fudan University, Shanghai, China
+
+* 2006 - 2009: Postdoc
+  * Kavli Institute of NanoScience, Delft University of Technology, The Netherlands
+  * Supervisor: Professor Gerrit E. W. Bauer
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -53,7 +47,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

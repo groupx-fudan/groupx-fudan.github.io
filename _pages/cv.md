@@ -16,7 +16,7 @@ redirect_from:
 * 2002 - 2006: M.S. in Applied Mathematics, Georgia Institute of Technology, Atlanta GA, USA
 
 #### Work experience
-* 2015 - Present: 'Xie Xide Junior' Professor
+* 2015 - Present: '_Xie Xide Junior_' Professor
   * Deparmtent of Physics, Fudan University, Shanghai, China
 
 * 2012 - 2015: Professor

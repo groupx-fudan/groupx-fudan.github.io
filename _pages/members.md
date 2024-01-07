@@ -3,9 +3,6 @@ layout: archive
 title: "Members"
 permalink: /members/
 author_profile: true
-redirect_from: 
-  - /members/
-  - /members.html
 ---
 
 <!-- {% include base_path %}

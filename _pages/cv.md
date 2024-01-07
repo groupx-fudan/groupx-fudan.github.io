@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-#### Education
+### Education
 * 1997 - 2001: B.S. in Physics, Peking University, Beijing, China
 * 2001 - 2006: Ph.D. in Physics, Georgia Institute of Technology, Atlanta GA, USA
-  * Supervisor: Prof. Andrew Zangwill \& Dr. Mark Stiles (NIST)
+  * Supervisor: Prof. Andrew Zangwill & Dr. Mark Stiles (NIST)
 * 2002 - 2006: M.S. in Applied Mathematics, Georgia Institute of Technology, Atlanta GA, USA
 
-#### Work experience
+### Work experience
 * 2015 - Present: '_Xie Xide Junior_' Professor
   * Deparmtent of Physics, Fudan University, Shanghai, China
 
@@ -29,17 +29,17 @@ redirect_from:
   * Kavli Institute of NanoScience, Delft University of Technology, The Netherlands
   * Supervisor: Professor Gerrit E. W. Bauer
   
-#### Publications
+### Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#### Talks
+### Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-#### Teaching
+### Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

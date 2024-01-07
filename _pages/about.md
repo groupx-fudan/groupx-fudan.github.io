@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Group X is a theoretical spintronics group at Fudan University."
+title: "Group X is a theoretical spintronics group."
 excerpt: "About Group X"
 author_profile: true
 redirect_from: 

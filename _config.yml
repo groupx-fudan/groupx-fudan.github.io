@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Group X"
   avatar           : "Group X.png"
-  bio              : "A Spintronics Group at Fudan University"
+  bio              : "A Spintronics Group"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "Fudan University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :

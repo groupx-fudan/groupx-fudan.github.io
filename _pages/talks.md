@@ -11,7 +11,6 @@ author_profile: true
 
 * Antiferromagnetic Resonance Revisited - A spectrum of level attraction  
   06/22 - 06/23/2022 (online), International Conference on Microwave Magnetics (ICMM 2022), Beijing, China  
-
 * Antiferromagnetic Resonance Revisited - A non-hermitian spectrum in a hermitian system  
   01/19/2022, Young Leaders Workshop: Emerging Quantum Spintronics, South Korea  
 
@@ -19,7 +18,6 @@ author_profile: true
 
 * Random Thoughts on Antiferromagnet  
   07/15 - 07/21/2021, 反铁磁自旋电子学研讨会，青海西宁  
-
 * Magnetic Texture based Magnonics and Applications  
   04/07/2021, 第一届应用物理论坛, 江苏溧阳  
   05/19/2021, 北京大学物理学院，北京

@@ -4,12 +4,10 @@ main:
     url: /year-archive/
 
   - title: "Members"
-    url: /pages/members
-#    url: /members/
+    url: /members/
 
   - title: "Publications"
-    url: /pages/publications
-    # url: /publications/
+    url: /publications/
 
   - title: "Talks"
     url: /talks/

@@ -27,15 +27,12 @@ Fudan Courses
 Group X Courses
 ===
 
-### 2023 Fall: Fly by night physics
-> Zee, A. Fly by night physics: how physicists use the backs of envelopes. (Princeton university press, 2020).  
-> 10/2023 - 01/2024   
->   
+1. 2023 Fall: Fly by night physics  
+   Zee, A. Fly by night physics: how physicists use the backs of envelopes. (Princeton university press, 2020).  
+<!-- > 10/2023 - 01/2024    -->
 
-### 2023 Spring: Mathematical Physics
-> Hassani - 2013 - Mathematical physics a modern introduction to its foundations (Chapter 1 - x)  
->   
-> 
+1. 2023 Spring: Mathematical Physics  
+   Hassani - 2013 - Mathematical physics a modern introduction to its foundations (Chapter 1 - x)  
 
 ### 2022 Fall: The variational principles of mechanics 
 > Lanczos, C. The variational principles of mechanics. (Dover Publications, 1986).  

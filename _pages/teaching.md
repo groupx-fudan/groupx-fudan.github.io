@@ -8,21 +8,20 @@ author_profile: true
 Fudan Courses
 ===
 
-### Quantum Mecahnics I / 量子力学 I 
-> Fall: 2023, 2021, 2020, 2018, 2016, 2014, 2012 (as teaching assistant for Prof. Su Ruken)  
-> Spring: 2023 Spring (for math major) 
+1. Quantum Mecahnics I / 量子力学 I  
+   Fall: 2023, 2021, 2020, 2018, 2016, 2014, 2012 (as teaching assistant for Prof. Su Ruken)  
+   Spring: 2023 Spring (for math major) 
 
-### Quantum Mechanics II / 量子力学 II 
-> Fall (for graduate students): 2017, 2015  
-> Spring: 2022, 2021, 2020, 2019
+1. Quantum Mechanics II / 量子力学 II  
+   Fall (for graduate students): 2017, 2015  
+   Spring: 2022, 2021, 2020, 2019
 
-### Advanced Electrodynamics / 高等电动力学 (Graduate course) 
-> Spring: 2013, 2011, 2010
+1. Advanced Electrodynamics / 高等电动力学 (Graduate course)  
+   Spring: 2013, 2011, 2010
 
-### College Physics / 大学物理 
-> Fall (medical school): 2011  
-> Spring (math major): 2014, 2012 
-
+2. College Physics / 大学物理  
+   Fall (medical school): 2011  
+   Spring (math major): 2014, 2012 
 
 Group X Courses
 ===
@@ -34,7 +33,7 @@ Group X Courses
 1. 2023 Spring: Mathematical Physics  
    Hassani - 2013 - Mathematical physics a modern introduction to its foundations (Chapter 1 - x)  
 
-1. 2022 Fall: The variational principles of mechanics  
+2. 2022 Fall: The variational principles of mechanics  
    Lanczos, C. The variational principles of mechanics. (Dover Publications, 1986).  
    王炯杰、王昱天、刘允文、夏子安、华辰松、汪崇州、马若般、余伟超、肖江 
 <!-- 09 - 12/2022   -->

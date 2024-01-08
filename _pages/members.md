@@ -14,7 +14,7 @@ author_profile: true
 
 ### Principle Investigator
 
-* [Xiao, Jiang / 肖江](../members/xiaojiang.md)
+* [Xiao, Jiang / 肖江](/_members/xiaojiang.md)
 
 ### Ph.D. Students
 
@@ -27,10 +27,11 @@ author_profile: true
 
 ### Postdocs
 
-* To be filled, if interested please contact 
+* To be filled, if interested please contact me 
 
 ### Alumni
 
+* Zhang, Jiabin / 张家斌 / Master (2022) 
 * Chen, Xiheng / 陈锡恒 / Master (2022) 
 * Shu, Chang / 舒畅 / Undergrad. (2022)
 * Hu, Gengyuan / 胡耕源 / Undergrad. (2022) 

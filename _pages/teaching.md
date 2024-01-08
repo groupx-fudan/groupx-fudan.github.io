@@ -5,8 +5,7 @@ excerpt: "Teaching"
 author_profile: true
 ---
 
-Fudan Courses
-===
+### Fudan Courses
 
 1. Quantum Mecahnics I / 量子力学 I  
    Fall: 2023, 2021, 2020, 2018, 2016, 2014, 2012 (as teaching assistant for Prof. Su Ruken)  
@@ -23,8 +22,7 @@ Fudan Courses
    Fall (medical school): 2011  
    Spring (math major): 2014, 2012 
 
-Group X Courses
-===
+### Group X Courses
 
 1. 2023 Fall: Fly by night physics  
    Zee, A. Fly by night physics: how physicists use the backs of envelopes. (Princeton university press, 2020).  

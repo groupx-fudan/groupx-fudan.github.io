@@ -29,10 +29,10 @@ collection: members
 ### Misc.
 
 I am a geography fan. I like geography since very young age, so I always have a huge world map in my room. I used to take the Geography Quiz from time to time. I have submitted correct answers a couple of times, four of which
-1. Bergen, Norway  [text in red are visible after correct answers are submitted],
-2. The Republic of Kirabati, 
-3. Hania, Crete Island, Greece,
-4. Pyongyang, North Korea,
+1. [Bergen, Norway](/_posts/images/geoquiz_bergen_med.jpeg)  (text in red are visible after correct answers are submitted),
+2. [The Republic of Kirabati](/_posts/images/geoquiz_kirabati_med.png), 
+3. [Hania, Crete Island, Greece](/_posts/images/geoquiz_hania_med.png),
+4. [Pyongyang, North Korea](/_posts/images/geoquiz_pyongyang_med.png),
 
 were the first correct answers submitted, so I won 4 x 100$ prize from the website. Maybe because of the above reason, I am also enthusiastic about traveling. So far, I’ve travelled to over 30 countries across 5 continents, including
 1. Asia (11): China, Thailand, Cambodia, Vietnam, Iran, Japan, Turkey, Israel, Singapore, South Korea, Saudi Arabia. 

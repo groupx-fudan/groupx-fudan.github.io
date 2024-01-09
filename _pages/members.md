@@ -14,7 +14,7 @@ author_profile: true
 
 ### Principle Investigator
 
-* [Xiao, Jiang / 肖江](/_members/xiaojiang)
+* [Xiao, Jiang / 肖江](/members/xiaojiang)
 
 ### Ph.D. Students
 

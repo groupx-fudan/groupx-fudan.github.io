@@ -7,6 +7,15 @@ author_profile: true
 
 ### INVITED TALKS ON CONFERENCES, WORKSHOPS, SCHOOLS
 
+#### 2023
+
+* Antiferromagnetic Resonance Revisited - A spectrum of level attraction  
+  10/20 - 10/22/2023, 全国凝聚态理论与统计物理学术会议, 济南 
+* Magnetic-Tunnel-Junction-Based True Random-Number Generator with Enhanced Generation Rate  
+  06/10 - 06/11/2023, 自旋电子学研讨会, 新加坡国立大学 重庆研究院
+* Magnetic-Tunnel-Junction-Based True Random-Number Generator with Enhanced Generation Rate  
+  05/22 - 05/25/2023, Spin Caloritronics XII, Tsukuba, Japan  
+
 #### 2022
 
 * Antiferromagnetic Resonance Revisited - A spectrum of level attraction  
@@ -133,22 +142,26 @@ author_profile: true
 
 ### OTHER INVITED TALKS
 * Antiferromagnetic Resonance Revisited  
-  12/27/2022, 北京大学物理学院，北京
+  12/27/2023, 北京大学物理学院
+* Magnetic texture based magnonics  
+  8/31/2023, King Abdullah University of Science and Technology (KAUST), Saudi Arabia 
+* A micromagnetic simulation package based on COMSOL Multiphysics
+  6/15/2023, 北京航空航天大学
 * Magnetic Texture based Magnonics and Applications  
   05/19/2021, 北京大学物理学院  
   01/07/2020, 南京大学  
   01/07/2020, 南京师范大学 
 * Magnetic texture based magnonics  
-  10/12/2019, Tianjin University, Tianjin, China 
+  10/12/2019, 天津大学 Tianjin University, Tianjin, China 
 * Magnetic texture based magnonics  
-  26/04/2018, Southeast University, Nanjing, China
+  26/04/2018, 东南大学 Southeast University, Nanjing, China
 * Non-volatile Spin Wave Computing  
-  01/02/2018, The University of Hong Kong, Hong Kong, China
+  01/02/2018, 香港大学 The University of Hong Kong, Hong Kong, China
 * Non-von Neumann Spin Wave Computing  
-  31/10/2017, Nanjing University, Nanjing, China   
-  01/11/2017, Beijing University, Beijing, China   
-  02/11/2017, Qingdao University, Qingdao, China   
-  14/11/2017, Southern University of  Science and Technology of China, Shenzhen, China 
+  31/10/2017, 南京大学 Nanjing University, Nanjing, China   
+  01/11/2017, 北京大学 Beijing University, Beijing, China   
+  02/11/2017, 青岛大学 Qingdao University, Qingdao, China   
+  14/11/2017, 南方理工大学 Southern University of Science and Technology of China, Shenzhen, China 
 * Spin transport in metallic thin films with spin-orbit coupling  
   23/05/2016, Institute of Physics, CAS, Beijing, China
 * Magnetic wafer based magnonics  

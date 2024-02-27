@@ -16,7 +16,7 @@ author_profile: true
 
 * [Xiao, Jiang / 肖江](/files/xiaojiang.md)
 
-### Ph.D. Students
+### Ph. D. Students
 
 * Huang, Rongzhi / 黄荣郅 (2023 ~ )
 * Liu, Yunwen / 刘允文 (2019 ~)
@@ -24,6 +24,10 @@ author_profile: true
 * Wang, Yutian / 王昱天 (2019 ~)
 * Wang, Jiongjie / 王炯杰 (2019 ~)
 * Xia, Zian / 夏子安 (2020 ~)
+
+### Undergraduates
+
+* Zhang, Yihan / 张逸涵 (2024 ~ )
 
 ### Postdocs
 

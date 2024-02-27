@@ -68,4 +68,3 @@ author_profile: true
 63. __Xiao, J.__, Zangwill, A. & Stiles, M. D. Macrospin models of spin transfer dynamics. Phys. Rev. B 72, 014446–13 (2005).
 64. __Xiao, J.__, Zangwill, A. & Stiles, M. D. Boltzmann test of Slonczewski’s theory of spin-transfer torque. Phys. Rev. B 70, 172405 (2004).
 65. Stiles, M. D., __Xiao, J.__ & Zangwill, A. Phenomenological theory of current-induced magnetization precession. Phys. Rev. B 69, 054408 (2004).
-

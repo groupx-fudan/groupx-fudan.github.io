@@ -11,6 +11,8 @@ redirect_from:
 Group X is led by Prof. Jiang Xiao. We focus on research on spintronics, which studies how to control and manipulate spin degrees of freedom. Please check the research page on what we do, and we encourage talented students to apply for gradute study or postdocs.
 
 ### Research Areas
+
+* Spin-based Computing (Neuromorphic, Probabilistic, Quantum Computing)
 * Antiferromagnetic Spintronics
 * Spin Caloritronics
 * Spin Cavitronics

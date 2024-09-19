@@ -19,15 +19,13 @@ author_profile: true
 ### Ph. D. Students
 
 * Huang, Rongzhi / 黄荣郅 (2023 ~ )
-* Liu, Yunwen / 刘允文 (2019 ~)
 * Ma, Ruoban / 马若般 (2023 ~)
+* Xia, Zian / 夏子安 (2020 ~)
+* Liu, Yunwen / 刘允文 (2019 ~)
 * Wang, Yutian / 王昱天 (2019 ~)
 * Wang, Jiongjie / 王炯杰 (2019 ~)
-* Xia, Zian / 夏子安 (2020 ~)
 
 ### Undergraduates
-
-* Zhang, Yihan / 张逸涵 (2024 ~ )
 
 ### Postdocs
 
@@ -35,6 +33,8 @@ author_profile: true
 
 ### Alumni
 
+* Zhang, Yihan / 张逸涵 / Undergrad. (2024)
+* Sha, Beiyao / 沙贝瑶 / Undergrad. (2024)
 * Shu, Chang / 舒畅 / Undergrad. (2022)
 * Hu, Gengyuan / 胡耕源 / Undergrad. (2022) 
 * Ma, Yaozhenghang / 马耀争行 / Undergrad. (2021) 

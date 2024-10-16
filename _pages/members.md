@@ -27,6 +27,11 @@ author_profile: true
 
 ### Undergraduates
 
+* Zeng, Xiangshan / 曾祥山 / Undergrad. (2024)
+* Zhu, Yanxiang / 祝彦翔 / Undergrad. (2024)
+* Wang, Wei / 王炜 / Undergrad. (2024)
+* Guo, Ruijie / 郭睿杰 / Undergrad. (2024)
+
 ### Postdocs
 
 * To be filled, if interested please contact me 
@@ -49,9 +54,9 @@ author_profile: true
 * Cai, Changjia / 蔡畅嘉 / Undergrad. (2015 ~ 2017)
 * Lan, Jin / 兰金 / Postdoc (2015 ~ 2018)
 * Song, Hongkang / 宋鸿康 / PhD (Visiting) (2014 ~ 2017)
-* Yu, Weichao / 余伟超 / PhD (2013 ~ 2018), Postdoc (2018 - 20219)
+* Yu, Weichao / 余伟超 / PhD (2013 ~ 2018), Postdoc (2018 - 2019)
 * Grigoryan, Vahram / 华禾 / Postdoc (2012 ~ 2014)
 * Shi, Haosheng / 史豪晟 / Master (2011 ~ 2014)
 * Zhou, Lingjun / 周凌君 / Master (2011 ~ 2014)
 * Guo, Wei / 郭威 / PhD (2011 ~ 2014)
-* Lin, Jie / 林杰/ Undergrad. (2010 ~ 2011)
+* Lin, Jie / 林杰 / Undergrad. (2010 ~ 2011)

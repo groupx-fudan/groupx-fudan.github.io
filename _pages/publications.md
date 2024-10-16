@@ -5,7 +5,7 @@ excerpt: "Publiations"
 author_profile: true
 ---
 
-1. Wang, Y. & __Xiao, J.__ Mechanism for broadened linewidth in antiferromagnetic resonance. _Phys. Rev. B_ 110, 134409 (2024).
+1. Wang, Y. & __Xiao, J.__ Mechanism for broadened linewidth in antiferromagnetic resonance. [_Phys. Rev. B_ 110, 134409 (2024)](https://link.aps.org/doi/10.1103/PhysRevB.110.134409).
 1. Yu, W., Guo, H., __Xiao, J.__ & Shen, J. Physical neural networks with self-learning capabilities. _Sci. China Phys. Mech. Astron._ 67, 287501 (2024).
 1. Qi, S. et al. Giant electrically tunable magnon transport anisotropy in a van der Waals antiferromagnetic insulator. Nat Commun 14, 2526 (2023).
 1. Zhang, J., Yu, W., Chen, X. & __Xiao, J.__ A frequency-domain micromagnetic simulation module based on COMSOL Multiphysics. _AIP Advances_ 13, 055108 (2023).

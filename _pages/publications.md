@@ -6,11 +6,14 @@ author_profile: true
 ---
 
 1. Wang, Y. & __Xiao, J.__ Mechanism for broadened linewidth in antiferromagnetic resonance. _Phys. Rev. B_ 110, 134409 (2024).
+1. Yu, W., Guo, H., __Xiao, J.__ & Shen, J. Physical neural networks with self-learning capabilities. _Sci. China Phys. Mech. Astron._ 67, 287501 (2024).
+1. Qi, S. et al. Giant electrically tunable magnon transport anisotropy in a van der Waals antiferromagnetic insulator. Nat Commun 14, 2526 (2023).
 1. Zhang, J., Yu, W., Chen, X. & __Xiao, J.__ A frequency-domain micromagnetic simulation module based on COMSOL Multiphysics. _AIP Advances_ 13, 055108 (2023).
 1. Lu, C. et al. An experimental demonstration of level attraction with coupled pendulums. _American Journal of Physics_ 91, 585–594 (2023).
 1. Hu, W. et al. Distinguishing artificial spin ice states using magnetoresistance effect for neuromorphic computing. _Nat Commun_ 14, 2562 (2023).
 1. Lan, J. & __Xiao, J.__ Spin wave driven domain wall motion in easy-plane ferromagnets: A particle perspective. _Phys. Rev. B_ 106, L020404 (2022).
-1. Chen, X., Zhang, J. & __Xiao, J.__ Magnetic-Tunnel-Junction-Based True Random-Number Generator with Enhanced Generation Rate. _Phys. Rev. Applied_  18, L021002 (2022).
+1. Liu, Z., __Xiao, J.__ & Wang, J. Dynamical magnetoelectric coupling in axion insulator thin films. _Phys. Rev. B_ 105, 214424 (2022).
+1. Chen, X., Zhang, J. & __Xiao, J.__ Magnetic-Tunnel-Junction-Based True Random-Number Generator with Enhanced Generation Rate. _Phys. Rev. Applied_ 18, L021002 (2022).
 1. Zhao, Y. & __Xiao, J.__ An adiabatic method to train binarized artificial neural networks. _Scientific Reports_ 11, 19797 (2021).
 1. Yuan, H. Y., Zheng, S., He, Q. Y., __Xiao, J.__ & Duine, R. A. Unconventional magnon excitation by off-resonant microwaves. _Phys. Rev. B_ 103, 134409 (2021).
 1. Yu, W., __Xiao, J.__ & Bauer, G. E. W. Hopfield neural network in magnetic textures with intrinsic Hebbian learning. _Phys. Rev. B_ 104, L180405 (2021).

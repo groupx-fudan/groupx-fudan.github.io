@@ -5,6 +5,7 @@ excerpt: "Publiations"
 author_profile: true
 ---
 
+1. Niu, C. et al. A self-learning magnetic Hopfield neural network with intrinsic gradient descent adaption. [_Proceedings of the National Academy of Sciences_ 121, e2416294121 (2024)](https://www.pnas.org/doi/10.1073/pnas.2416294121).
 1. Wang, Y. & __Xiao, J.__ Mechanism for broadened linewidth in antiferromagnetic resonance. [_Phys. Rev. B_ 110, 134409 (2024)](https://link.aps.org/doi/10.1103/PhysRevB.110.134409).
 1. Yu, W., Guo, H., __Xiao, J.__ & Shen, J. Physical neural networks with self-learning capabilities. [_Sci. China Phys. Mech. Astron._ 67, 287501 (2024)](https://link.springer.com/10.1007/s11433-024-2403-x).
 1. Qi, S. et al. Giant electrically tunable magnon transport anisotropy in a van der Waals antiferromagnetic insulator. [_Nat Commun_ 14, 2526 (2023)](https://www.nature.com/articles/s41467-023-38172-7).

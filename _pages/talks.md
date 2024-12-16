@@ -7,6 +7,10 @@ author_profile: true
 
 ### INVITED TALKS ON CONFERENCES, WORKSHOPS, SCHOOLS
 
+#### 2024
+* 反铁磁共振线宽增加的物理机制
+  4/19 - 4/21/2024, 第十九届全国低温物理学术讨论会, 宁波
+
 #### 2023
 
 * Antiferromagnetic Resonance Revisited - A spectrum of level attraction  
@@ -141,6 +145,8 @@ author_profile: true
   10/30 – 11/03/2005, 50th Magnetism & Magnetic Materials Conference, San Jose CA, USA
 
 ### OTHER INVITED TALKS
+* Antiferromagnetic Resonance Revisited  
+  06/17/2024, 中山大学
 * Antiferromagnetic Resonance Revisited  
   12/27/2023, 北京大学物理学院
 * Magnetic texture based magnonics  

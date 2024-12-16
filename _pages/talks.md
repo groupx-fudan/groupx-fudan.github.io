@@ -8,7 +8,7 @@ author_profile: true
 ### INVITED TALKS ON CONFERENCES, WORKSHOPS, SCHOOLS
 
 #### 2024
-* 反铁磁共振线宽增加的物理机制
+* 反铁磁共振线宽增加的物理机制  
   4/19 - 4/21/2024, 第十九届全国低温物理学术讨论会, 宁波
 
 #### 2023

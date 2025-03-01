@@ -5,9 +5,9 @@ excerpt: "Publiations"
 author_profile: true
 ---
 
-1. Wang, Y., Ma, R. & Xiao, J. Anatomy of Spin Wave Polarization in Ferromagnets. Preprint at https://doi.org/10.48550/arXiv.2502.13549 (2025).
-1. Wang, Y., Wang, J., Ma, R. & Xiao, J. The Connection between Spin Wave Polarization and Dissipation. Preprint at https://doi.org/10.48550/arXiv.2501.15433 (2025).
-1. Liu, Y. & Xiao, J. Application of Probabilistic-bit in Precision Measurements. Preprint at http://arxiv.org/abs/2405.08382 (2024).
+1. Wang, Y., Ma, R. & Xiao, J. Anatomy of Spin Wave Polarization in Ferromagnets. Preprint at [_arXiv_](https://doi.org/10.48550/arXiv.2502.13549) (2025).
+1. Wang, Y., Wang, J., Ma, R. & Xiao, J. The Connection between Spin Wave Polarization and Dissipation. Preprint at [_arXiv_](https://doi.org/10.48550/arXiv.2501.15433) (2025).
+1. Liu, Y. & Xiao, J. Application of Probabilistic-bit in Precision Measurements. Preprint at [_arXiv_](http://arxiv.org/abs/2405.08382) (2024).
 
 ---
 

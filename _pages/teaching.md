@@ -28,7 +28,7 @@ author_profile: true
    Mitzenmacher, M. & Upfal, E. Probability and Computing. (Cambridge University Press, Cambridge, United Kingdom ; New York, NY, USA, 2017).
 <!-- > 10/20234- 01/2025    -->
 
-2. 2023 Fall: Fly by night physics  
+1. 2023 Fall: Fly by night physics  
    Zee, A. Fly by night physics: how physicists use the backs of envelopes. (Princeton university press, 2020).  
 <!-- > 10/2023 - 01/2024    -->
 

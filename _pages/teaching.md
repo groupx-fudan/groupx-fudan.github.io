@@ -9,7 +9,7 @@ author_profile: true
 
 1. Quantum Mecahnics I / 量子力学 I  
    Fall: 2023, 2021, 2020, 2018, 2016, 2014, 2012 (as teaching assistant for Prof. Su Ruken)  
-   Spring: 2023 Spring (for math major) 
+   Spring (for math major): 2025, 2023 
 
 1. Quantum Mechanics II / 量子力学 II  
    Fall (for graduate students): 2017, 2015  
@@ -24,7 +24,11 @@ author_profile: true
 
 ### Group X Courses
 
-1. 2023 Fall: Fly by night physics  
+1. 2024 Fall: Probability and computing
+   Mitzenmacher, M. & Upfal, E. Probability and Computing. (Cambridge University Press, Cambridge, United Kingdom ; New York, NY, USA, 2017).
+<!-- > 10/20234- 01/2025    -->
+
+2. 2023 Fall: Fly by night physics  
    Zee, A. Fly by night physics: how physicists use the backs of envelopes. (Princeton university press, 2020).  
 <!-- > 10/2023 - 01/2024    -->
 

@@ -5,13 +5,13 @@ excerpt: "Publiations"
 author_profile: true
 ---
 
-1. Wang, Y., Ma, R. & Xiao, J. Anatomy of Spin Wave Polarization in Ferromagnets. Preprint at [_arXiv_](https://doi.org/10.48550/arXiv.2502.13549) (2025).
-1. Wang, Y., Wang, J., Ma, R. & Xiao, J. The Connection between Spin Wave Polarization and Dissipation. Preprint at [_arXiv_](https://doi.org/10.48550/arXiv.2501.15433) (2025).
-1. Liu, Y. & Xiao, J. Application of Probabilistic-bit in Precision Measurements. Preprint at [_arXiv_](http://arxiv.org/abs/2405.08382) (2024).
+1. Wang, Y., Ma, R. & __Xiao, J.__ Anatomy of Spin Wave Polarization in Ferromagnets. Preprint at [_arXiv_](https://doi.org/10.48550/arXiv.2502.13549) (2025).
+1. Wang, Y., Wang, J., Ma, R. & __Xiao, J.__ The Connection between Spin Wave Polarization and Dissipation. Preprint at [_arXiv_](https://doi.org/10.48550/arXiv.2501.15433) (2025).
+1. Liu, Y. & __Xiao, J.__ Application of Probabilistic-bit in Precision Measurements. Preprint at [_arXiv_](http://arxiv.org/abs/2405.08382) (2024).
 
 ---
 
-1. Wang, J. & Xiao, J. Interpreting S-parameter spectra in coupled resonant systems: the role of probing configurations. [_Opt. Express_, OE 33, 7146–7154 (2025)](https://doi.org/10.1364/OE.551120).
+1. Wang, J. & __Xiao, J.__ Interpreting S-parameter spectra in coupled resonant systems: the role of probing configurations. [_Opt. Express_, OE 33, 7146–7154 (2025)](https://doi.org/10.1364/OE.551120).
 1. Niu, C. et al. A self-learning magnetic Hopfield neural network with intrinsic gradient descent adaption. [_Proceedings of the National Academy of Sciences_ 121, e2416294121 (2024)](https://www.pnas.org/doi/10.1073/pnas.2416294121).
 1. Cheng, J. et al. A nonvolatile magnon field effect transistor at room temperature. [_Nat Commun 15, 9314 (2024)](https://doi.org/10.1038/s41467-024-53524-7).
 1. Wang, Y. & __Xiao, J.__ Mechanism for broadened linewidth in antiferromagnetic resonance. [_Phys. Rev. B_ 110, 134409 (2024)](https://link.aps.org/doi/10.1103/PhysRevB.110.134409).

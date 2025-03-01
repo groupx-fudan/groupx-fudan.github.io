@@ -24,7 +24,7 @@ author_profile: true
 
 ### Group X Courses
 
-1. 2024 Fall: Probability and computing
+1. 2024 Fall: Probability and computing 
    Mitzenmacher, M. & Upfal, E. Probability and Computing. (Cambridge University Press, Cambridge, United Kingdom ; New York, NY, USA, 2017).
 <!-- > 10/20234- 01/2025    -->
 

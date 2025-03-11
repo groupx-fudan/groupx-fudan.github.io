@@ -5,12 +5,16 @@ excerpt: "Publiations"
 author_profile: true
 ---
 
+## Preprints
+
 1. Wang, Y., Ma, R. & __Xiao, J.__ Anatomy of Spin Wave Polarization in Ferromagnets. Preprint on [_arXiv_](https://doi.org/10.48550/arXiv.2502.13549) (2025).
 1. Wang, Y., Wang, J., Ma, R. & __Xiao, J.__ The Connection between Spin Wave Polarization and Dissipation. Preprint on [_arXiv_](https://doi.org/10.48550/arXiv.2501.15433) (2025).
 1. Wang, J. & **Xiao, J.** Dynamic Control of Coupling Regimes in Oscillator Systems via Tunable Open Channels. Preprint on [_arXiv_](https://doi.org/10.48550/arXiv.2411.12217) (2024).
 1. Liu, Y. & __Xiao, J.__ Application of Probabilistic-bit in Precision Measurements. Preprint on [_arXiv_](http://arxiv.org/abs/2405.08382) (2024).
 
 ---
+
+## Published
 
 1. Wang, J. & __Xiao, J.__ Interpreting S-parameter spectra in coupled resonant systems: the role of probing configurations. [_Opt. Express_, OE 33, 7146–7154 (2025)](https://doi.org/10.1364/OE.551120).
 1. Niu, C. et al. A self-learning magnetic Hopfield neural network with intrinsic gradient descent adaption. [_Proceedings of the National Academy of Sciences_ 121, e2416294121 (2024)](https://www.pnas.org/doi/10.1073/pnas.2416294121).

@@ -7,6 +7,7 @@ author_profile: true
 
 1. Wang, Y., Ma, R. & __Xiao, J.__ Anatomy of Spin Wave Polarization in Ferromagnets. Preprint at [_arXiv_](https://doi.org/10.48550/arXiv.2502.13549) (2025).
 1. Wang, Y., Wang, J., Ma, R. & __Xiao, J.__ The Connection between Spin Wave Polarization and Dissipation. Preprint at [_arXiv_](https://doi.org/10.48550/arXiv.2501.15433) (2025).
+1. Wang, J. & **Xiao, J.** Dynamic Control of Coupling Regimes in Oscillator Systems via Tunable Open Channels. Preprint at [_arXiv_](https://doi.org/10.48550/arXiv.2411.12217) (2024).
 1. Liu, Y. & __Xiao, J.__ Application of Probabilistic-bit in Precision Measurements. Preprint at [_arXiv_](http://arxiv.org/abs/2405.08382) (2024).
 
 ---

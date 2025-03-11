@@ -27,10 +27,10 @@ author_profile: true
 
 ### Undergraduates
 
-* Zeng, Xiangshan / 曾祥山 / Undergrad. (2024)
-* Zhu, Yanxiang / 祝彦翔 / Undergrad. (2024)
-* Wang, Wei / 王炜 / Undergrad. (2024)
-* Guo, Ruijie / 郭睿杰 / Undergrad. (2024)
+* Xu, Congrui / 许从睿 / Undergrad. (2025 ~)
+* Zeng, Xiangshan / 曾祥山 / Undergrad. (2024 ~)
+* Zhu, Yanxiang / 祝彦翔 / Undergrad. (2024 ~)
+* Wang, Wei / 王炜 / Undergrad. (2024 ~)
 
 ### Postdocs
 
@@ -38,6 +38,7 @@ author_profile: true
 
 ### Alumni
 
+* Guo, Ruijie / 郭睿杰 / Undergrad. (2024)
 * Zhang, Yihan / 张逸涵 / Undergrad. (2024)
 * Sha, Beiyao / 沙贝瑶 / Undergrad. (2024)
 * Shu, Chang / 舒畅 / Undergrad. (2022)

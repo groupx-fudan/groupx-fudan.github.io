@@ -14,8 +14,9 @@ author_profile: true
 
 ## Published
 
-1. Wang, J. & **Xiao, J.** Dynamic Control of Coupling Regimes in Oscillator Systems via Tunable Open Channels. To Appear on PRB. [_Preprint on arXiv_](https://doi.org/10.48550/arXiv.2411.12217) (2024).
-1. Liu, Y. & __Xiao, J.__ Application of Probabilistic-bit in Precision Measurements. To Appear on APL. [_Preprint on arXiv_](http://arxiv.org/abs/2405.08382) (2024).
+1. Wang, J. & __Xiao, J.__ Dynamic control of coupling regimes in oscillator systems via tunable open channels. [_Phys. Rev. B_ 111, 115425 (2025)](https://doi.org/10.1103/PhysRevB.111.115425).
+1. Liu, Y. & __Xiao, J.__ Application of probabilistic bits in measurement and sensing. [_Applied Physics Letters_ 126, 122403 (2025)](https://doi.org/10.1063/5.0253449
+).
 1. Wang, J. & __Xiao, J.__ Interpreting S-parameter spectra in coupled resonant systems: the role of probing configurations. [_Opt. Express_, OE 33, 7146–7154 (2025)](https://doi.org/10.1364/OE.551120).
 1. Niu, C. et al. A self-learning magnetic Hopfield neural network with intrinsic gradient descent adaption. [_PNAS_ 121, e2416294121 (2024)](https://www.pnas.org/doi/10.1073/pnas.2416294121).
 1. Cheng, J. et al. A nonvolatile magnon field effect transistor at room temperature. [_Nat Commun 15, 9314 (2024)](https://doi.org/10.1038/s41467-024-53524-7).

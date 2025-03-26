@@ -19,7 +19,7 @@ author_profile: true
 ).
 1. Wang, J. & __Xiao, J.__ Interpreting S-parameter spectra in coupled resonant systems: the role of probing configurations. [_Opt. Express_, OE 33, 7146–7154 (2025)](https://doi.org/10.1364/OE.551120).
 1. Niu, C. et al. A self-learning magnetic Hopfield neural network with intrinsic gradient descent adaption. [_PNAS_ 121, e2416294121 (2024)](https://www.pnas.org/doi/10.1073/pnas.2416294121).
-1. Cheng, J. et al. A nonvolatile magnon field effect transistor at room temperature. [_Nat Commun 15, 9314 (2024)](https://doi.org/10.1038/s41467-024-53524-7).
+1. Cheng, J. et al. A nonvolatile magnon field effect transistor at room temperature. [_Nat Commun_ 15, 9314 (2024)](https://doi.org/10.1038/s41467-024-53524-7).
 1. Wang, Y. & __Xiao, J.__ Mechanism for broadened linewidth in antiferromagnetic resonance. [_Phys. Rev. B_ 110, 134409 (2024)](https://link.aps.org/doi/10.1103/PhysRevB.110.134409).
 1. Yu, W., Guo, H., __Xiao, J.__ & Shen, J. Physical neural networks with self-learning capabilities. [_Sci. China Phys. Mech. Astron._ 67, 287501 (2024)](https://link.springer.com/10.1007/s11433-024-2403-x).
 1. Qi, S. et al. Giant electrically tunable magnon transport anisotropy in a van der Waals antiferromagnetic insulator. [_Nat Commun_ 14, 2526 (2023)](https://www.nature.com/articles/s41467-023-38172-7).

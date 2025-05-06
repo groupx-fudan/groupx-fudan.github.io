@@ -13,6 +13,7 @@ author_profile: true
 
 ## Published
 
+1. Wang, Y. et al. Controllable Highly Oriented Skyrmion Track Array in Bulk ${\mathrm{Fe}}_{3}{\mathrm{GaTe}}_{2}$. [_Phys. Rev. X_ 15, 021032 (2025)](https://doi.org/10.1103/PhysRevX.15.021032).
 1. Wang, Y., Wang, J., Ma, R. & __Xiao, J.__ Connection between spin-wave polarization and dissipation. [_Phys. Rev. B_ 111, 134431 (2025)](https://link.aps.org/doi/10.1103/PhysRevB.111.134431)
 1. Wang, J. & __Xiao, J.__ Dynamic control of coupling regimes in oscillator systems via tunable open channels. [_Phys. Rev. B_ 111, 115425 (2025)](https://doi.org/10.1103/PhysRevB.111.115425).
 1. Liu, Y. & __Xiao, J.__ Application of probabilistic bits in measurement and sensing. [_Applied Physics Letters_ 126, 122403 (2025)](https://doi.org/10.1063/5.0253449

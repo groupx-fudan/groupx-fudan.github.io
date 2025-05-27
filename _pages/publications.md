@@ -13,6 +13,9 @@ author_profile: true
 
 ## Published
 
+1. Guo, J. et al. Tunable bifurcation of magnetic anisotropy and bi-oriented antiferromagnetic order in kagome metal $\mathrm{GdTi}_3\mathrm{Bi}_4$. To appear on Phys. Rev. Lett. (2025) 
+
+1. Wang, J. & __Xiao, J.__ Micromagnetic Study of the Dipolar-Exchange Spin Waves in Antiferromagnetic Thin Films. To appear on Chinese Physics B (2025) [Preprint](https://doi.org/10.48550/arXiv.2505.13970).
 1. Wang, Y. et al. Controllable Highly Oriented Skyrmion Track Array in Bulk ${\mathrm{Fe}}_{3}{\mathrm{GaTe}}_{2}$. [_Phys. Rev. X_ 15, 021032 (2025)](https://doi.org/10.1103/PhysRevX.15.021032).
 1. Wang, Y., Wang, J., Ma, R. & __Xiao, J.__ Connection between spin-wave polarization and dissipation. [_Phys. Rev. B_ 111, 134431 (2025)](https://link.aps.org/doi/10.1103/PhysRevB.111.134431)
 1. Wang, J. & __Xiao, J.__ Dynamic control of coupling regimes in oscillator systems via tunable open channels. [_Phys. Rev. B_ 111, 115425 (2025)](https://doi.org/10.1103/PhysRevB.111.115425).

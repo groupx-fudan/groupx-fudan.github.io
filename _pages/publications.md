@@ -35,23 +35,23 @@ author_profile: true
 1. Liu, Z., __Xiao, J.__ & Wang, J. Dynamical magnetoelectric coupling in axion insulator thin films. [_Phys. Rev. B_ 105, 214424 (2022)](https://link.aps.org/doi/10.1103/PhysRevB.105.214424).
 1. Chen, X., Zhang, J. & __Xiao, J.__ Magnetic-Tunnel-Junction-Based True Random-Number Generator with Enhanced Generation Rate. [_Phys. Rev. Applied_ 18, L021002 (2022)](https://link.aps.org/doi/10.1103/PhysRevApplied.18.L021002).
 1. Zhao, Y. & __Xiao, J.__ An adiabatic method to train binarized artificial neural networks. [_Scientific Reports_ 11, 19797 (2021)](https://www.nature.com/articles/s41598-021-99191-2).
-1. Yuan, H. Y., Zheng, S., He, Q. Y., __Xiao, J.__ & Duine, R. A. Unconventional magnon excitation by off-resonant microwaves. _Phys. Rev. B_ 103, 134409 (2021).
-1. Yu, W., __Xiao, J.__ & Bauer, G. E. W. Hopfield neural network in magnetic textures with intrinsic Hebbian learning. _Phys. Rev. B_ 104, L180405 (2021).
-1. Yu, H., __Xiao, J.__ & Schultheiss, H. Magnetic texture based magnonics. _Physics Reports_ 905, 1–59 (2021).
-1. Niu, C. et al. Implementation of artificial neurons with tunable width via magnetic anisotropy. _Appl. Phys. Lett._ 119, 204101 (2021).
-1. Lan, J., Yu, W. & __Xiao, J.__ Geometric magnonics with chiral magnetic domain walls. _Phys. Rev. B_ 103, 214407 (2021).
-1. Lan, J. & __Xiao, J.__ Skew scattering and side jump of spin wave across magnetic texture. _Phys. Rev. B_ 103, 054428 (2021).
-1. Chen, G. et al. Electrically switchable van der Waals magnon valves. _Nat Commun_ 12, 6279 (2021).
-1. Chen, G., Lan, J., Min, T. & __Xiao, J.__ Narrow Waveguide Based on Ferroelectric Domain Wall. _Chin. Phys. Lett._ 38, 87701 (2021).
-1. Yuan, H. Y., Yu, W. & __Xiao, J.__ Loop theory for input-output problems in cavities. _Phys. Rev. A_ 101, 043824 (2020).
-1. Yu, W., Lan, J. & __Xiao, J.__ Magnetic Logic Gate Based on Polarized Spin Waves. _Phys. Rev. Applied_  13, 024055 (2020).
-1. Wang, X. et al. Spin transmission in IrMn through measurements of spin Hall magnetoresistance and spin-orbit torque. _Phys. Rev. B_ 101, 144412 (2020).
-1. Yu, W., Wang, J., Yuan, H. Y. & __Xiao, J.__ Prediction of Attractive Level Crossing via a Dissipative Mode. _Phys. Rev. Lett._  123, 227201 (2019).
-1. Oh, S.-H., Kim, S. K., __Xiao, J.__ & Lee, K.-J. Bidirectional spin-wave-driven domain wall motion in ferrimagnets. _Phys. Rev. B_ 100, 174403 (2019).
-1. Luan, Z. Z. et al. Enhanced spin accumulation in metallic bilayers with opposite spin Hall angles. _Phys. Rev. B_ 99, 174406 (2019).
-1. Liu, C. et al. Current-controlled propagation of spin waves in antiparallel, coupled domains. _Nature Nanotechnology_ 1 (2019).
-1. Daniels, M. W., Yu, W., Cheng, R., __Xiao, J.__ & Xiao, D. Topological spin Hall effects and tunable skyrmion Hall effects in uniaxial antiferromagnetic insulators. _Phys. Rev. B_ 99, 224433 (2019).
-1. Alam, M. S. et al. Temperature control of spin wave propagation over 100 μm distance in 100 nm-thick YIG film. _Physics Letters A_ 383, 366–368 (2019).
+1. Yuan, H. Y., Zheng, S., He, Q. Y., __Xiao, J.__ & Duine, R. A. Unconventional magnon excitation by off-resonant microwaves. [_Phys. Rev. B_ 103, 134409 (2021)](https://link.aps.org/doi/10.1103/PhysRevB.103.134409).
+1. Yu, W., __Xiao, J.__ & Bauer, G. E. W. Hopfield neural network in magnetic textures with intrinsic Hebbian learning. [_Phys. Rev. B_ 104, L180405 (2021)](https://link.aps.org/doi/10.1103/PhysRevB.104.L180405).
+1. Yu, H., __Xiao, J.__ & Schultheiss, H. Magnetic texture based magnonics. [_Physics Reports_ 905, 1–59 (2021)](https://linkinghub.elsevier.com/retrieve/pii/S0370157320304270).
+1. Niu, C. et al. Implementation of artificial neurons with tunable width via magnetic anisotropy. [_Appl. Phys. Lett._ 119, 204101 (2021)](https://aip.scitation.org/doi/10.1063/5.0072913).
+1. Lan, J., Yu, W. & __Xiao, J.__ Geometric magnonics with chiral magnetic domain walls. [_Phys. Rev. B_ 103, 214407 (2021)](https://link.aps.org/doi/10.1103/PhysRevB.103.214407).
+1. Lan, J. & __Xiao, J.__ Skew scattering and side jump of spin wave across magnetic texture. [_Phys. Rev. B_ 103, 054428 (2021)](https://link.aps.org/doi/10.1103/PhysRevB.103.054428).
+1. Chen, G. et al. Electrically switchable van der Waals magnon valves. [_Nat Commun_ 12, 6279 (2021)](https://www.nature.com/articles/s41467-021-26523-1).
+1. Chen, G., Lan, J., Min, T. & __Xiao, J.__ Narrow Waveguide Based on Ferroelectric Domain Wall. [_Chin. Phys. Lett._ 38, 87701 (2021)](http://cpl.iphy.ac.cn/EN/10.1088/0256-307X/38/8/087701).
+1. Yuan, H. Y., Yu, W. & __Xiao, J.__ Loop theory for input-output problems in cavities. [_Phys. Rev. A_ 101, 043824 (2020)](https://link.aps.org/doi/10.1103/PhysRevA.101.043824).
+1. Yu, W., Lan, J. & __Xiao, J.__ Magnetic Logic Gate Based on Polarized Spin Waves. [_Phys. Rev. Applied_  13, 024055 (2020)](https://link.aps.org/doi/10.1103/PhysRevApplied.13.024055).
+1. Wang, X. et al. Spin transmission in IrMn through measurements of spin Hall magnetoresistance and spin-orbit torque. [_Phys. Rev. B_ 101, 144412 (2020)](https://link.aps.org/doi/10.1103/PhysRevB.101.144412).
+1. Yu, W., Wang, J., Yuan, H. Y. & __Xiao, J.__ Prediction of Attractive Level Crossing via a Dissipative Mode. [_Phys. Rev. Lett._  123, 227201 (2019)](https://link.aps.org/doi/10.1103/PhysRevLett.123.227201).
+1. Oh, S.-H., Kim, S. K., __Xiao, J.__ & Lee, K.-J. Bidirectional spin-wave-driven domain wall motion in ferrimagnets. [_Phys. Rev. B_ 100, 174403 (2019)](https://link.aps.org/doi/10.1103/PhysRevB.100.174403).
+1. Luan, Z. Z. et al. Enhanced spin accumulation in metallic bilayers with opposite spin Hall angles. [_Phys. Rev. B_ 99, 174406 (2019)](https://link.aps.org/doi/10.1103/PhysRevB.99.174406).
+1. Liu, C. et al. Current-controlled propagation of spin waves in antiparallel, coupled domains. [_Nature Nanotechnology_ 1 (2019)](https://www.nature.com/articles/s41565-019-0429-7).
+1. Daniels, M. W., Yu, W., Cheng, R., __Xiao, J.__ & Xiao, D. Topological spin Hall effects and tunable skyrmion Hall effects in uniaxial antiferromagnetic insulators. [_Phys. Rev. B_ 99, 224433 (2019)](https://link.aps.org/doi/10.1103/PhysRevB.99.224433).
+1. Alam, M. S. et al. Temperature control of spin wave propagation over 100 μm distance in 100 nm-thick YIG film. [_Physics Letters A_ 383, 366–368 (2019)](http://www.sciencedirect.com/science/article/pii/S0375960118310624).
 1. Zhou, L. et al. Observation of spin-orbit magnetoresistance in metallic thin films on magnetic insulators. _Science Advances_ 4, eaao3318 (2018).
 1. Yu, W., Lan, J. & __Xiao, J.__ Polarization-selective spin wave driven domain-wall motion in antiferromagnets. _Phys. Rev. B_ 98, 144422 (2018).
 1. Tserkovnyak, Y. & __Xiao, J.__ Energy Storage via Topological Spin Textures. _Phys. Rev. Lett._  121, 127701 (2018).

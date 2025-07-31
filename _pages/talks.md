@@ -33,7 +33,7 @@ author_profile: true
 * Antiferromagnetic Resonance Revisited - A spectrum of level attraction  
   06/22 - 06/23/2022 (online), International Conference on Microwave Magnetics (ICMM 2022), Beijing, China *  
 * Antiferromagnetic Resonance Revisited - A non-hermitian spectrum in a hermitian system  
-  01/19/2022, Young Leaders Workshop: Emerging Quantum Spintronics, South Korea  
+  01/19/2022, Young Leaders Workshop: Emerging Quantum Spintronics, South Korea *  
 
 #### 2021
 
@@ -56,7 +56,7 @@ author_profile: true
 * Level attraction via dissipative coupling - Applications on spin cavitronics  
   10/20 – 10/25/2019, Spin Peru, Ollantaytambo, Cusco, Peru *
 * Magnetic texture based magnonics ([Video](https://www.koushare.com/video/videodetail/1954) from Koushare)  
-  7/19 – 7/23/2019, International Workshop on Emerging Electronic Materials and Devices (EEMD), Zhangjiajie, Hunan Prov., China
+  7/19 – 7/23/2019, International Workshop on Emerging Electronic Materials and Devices (EEMD), Zhangjiajie, Hunan Prov., China *
 * Magnetic texture based magnonics  
   2/25 – 2/28/2019, Spin Mechanics 6, Zao, Japan *
 * Magnetic texture based magnonics ([Video](https://www.koushare.com/video/videodetail/1355) from Koushare)  
@@ -66,7 +66,7 @@ author_profile: true
 * Magnetic texture based magnonics  
   12/2018, 第二届自旋量子态调控青年科技论坛, Shanghai, China
 * Spin Wave Computing ([Video](https://www.koushare.com/video/videodetail/98) from Koushare)  
-  10/1 – 10/19/2018, KITS Workshop on Collective Spin Dynamics in Nanostructures, Beijing, China
+  10/1 – 10/19/2018, KITS Workshop on Collective Spin Dynamics in Nanostructures, Beijing, China *
 * Spin Wave Computing  
   9/13 – 9/17/2018, CPS Fall Meeting, Dalian, China
 * Magnetic texture based magnonics  
@@ -107,7 +107,7 @@ author_profile: true
 * Magnetic wafer based magnonics  
   11/27 – 11/29/2015, 南方物理论坛, 南方科技大学, 深圳, China
 * Magnetic wafer based magnonics  
-  10/10 – 11/10/2015, International Workshop on Frontiers of Theoretical and Computational Physics and Chemistry (WFTCPC 2015), Northwestern University, Xi'an, China
+  10/10 – 11/10/2015, International Workshop on Frontiers of Theoretical and Computational Physics and Chemistry (WFTCPC 2015), Northwestern University, Xi'an, China *
 * Transport between metals and magnetic insulators  
   26/07 – 31/07/2015, Gordon Research Conferences: Spin Dynamics in Nanostructures, The Hong Kong University of Science and Technology, Hong Kong, China *
 
@@ -123,18 +123,18 @@ author_profile: true
 
 #### 2013
 * Current induced spin wave excitation in Pt/YIG bilayers   
-  09/12 – 09/15/2013, Chinese Physical Society Fall Meeting, Xiamen, Fujian, China  
+  09/12 – 09/15/2013, 中国物理学会秋季会议, 厦门
   18/08 – 23/08/2013, Gordon Research Conferences: Spin Dynamics in Nanostructures, The Hong Kong University of Science and Technology, Hong Kong, China *
 * Field-free synthetic-ferromagnet spin torque oscillators   
   21/07 – 25/07/2013, The 3rd International Symposium on Advanced Magnetic Materials and Applications (ISAMMA 2013), Taichung, Taiwan, China *
 * Special topics on spintronics  
-  01/07 - 05/07/2013,  ICQM Summer School 2013, “Novel Electronic Degrees of Freedom”, Peking University, Beijing, China
+  01/07 - 05/07/2013,  ICQM Summer School 2013, “Novel Electronic Degrees of Freedom”, Peking University, Beijing, China *
 * Onsager Relation in Multi-Terminal Structures  
   12/05 – 15/05/2013, Spin Caloritronics V, Ohio State University, Columbus OH, USA *
 
 #### 2012
 * Spin wave excitation in ferromagnetic insulators  
-  02/06 – 05/06/2012, Spin Caloritronics IV,  IMR, Tohoku University, Sendai, Japan *
+  02/06 – 05/06/2012, Spin Caloritronics IV, IMR, Tohoku University, Sendai, Japan *
 
 #### 2011 
 * Electrical actuation of surface spin waves in ferromagnetic insulators  
@@ -146,9 +146,9 @@ author_profile: true
 
 #### 2010 and earlier
 * Theory of magnon-driven spin Seebeck effect  
-  04/26 – 07/02/2010, Progress in Spintronics and Graphene Research, KITPC, Beijing, China
+  04/26 – 07/02/2010, Progress in Spintronics and Graphene Research, KITPC, Beijing, China *
 * Charge pumping and colored thermal voltage noise in spin valves  
-  09/17 – 09/20/2009, Chinese Physical Society Fall Meeting, Shanghai, China
+  09/17 – 09/20/2009, 中国物理学会秋季会议, 上海
 * Modeling of spin-transfer torque and its effects  
   10/30 – 11/03/2005, 50th Magnetism & Magnetic Materials Conference, San Jose CA, USA *
 

@@ -8,7 +8,7 @@ author_profile: true
 ### INVITED TALKS ON CONFERENCES, WORKSHOPS, SCHOOLS
 
 #### 2025
-* Spin Wave Polarization & Dissipation: from classical to quantum  
+* _Spin Wave Polarization & Dissipation: from classical to quantum_  
   7/21 - 7/25/2025, Spin Caloritronics XIV, Leeds, UK *
 * 自旋波的偏振与耗散  
   6/20 - 6/22/2025, 杭州, 中国 

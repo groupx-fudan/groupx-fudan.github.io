@@ -9,7 +9,7 @@ author_profile: true
 
 #### 2025
 * Spin Wave Polarization & Dissipation: from classical to quantum  
-  7/21 - 7/25/2025, Spin Caloritronics XIV, Leeds, UK
+  7/21 - 7/25/2025, Spin Caloritronics XIV, Leeds, UK *
 * 自旋波的偏振与耗散  
   6/20 - 6/22/2025, 杭州, 中国 
 * Interpreting S-parameter Spectra in Coupled Systems: The role of probing configurations 

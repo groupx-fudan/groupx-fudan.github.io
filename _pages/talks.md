@@ -7,6 +7,14 @@ author_profile: true
 
 ### INVITED TALKS ON CONFERENCES, WORKSHOPS, SCHOOLS
 
+#### 2025
+* Spin Wave Polarization & Dissipation: from classical to quantum  
+  7/21 - 7/25/2025, Spin Caloritronics XIV, Leeds, UK
+* 自旋波的偏振与耗散  
+  6/20 - 6/22/2025, 杭州, 中国 
+* Interpreting S-parameter Spectra in Coupled Systems: The role of probing configurations 
+  4/8 - 4/13/2025, International Conference on Physics of Light-Matter Coupling in Nanostructures and Nanophotonics (PLMCN-2025), Xiamen, China
+
 #### 2024
 * 反铁磁共振线宽增加的物理机制  
   4/19 - 4/21/2024, 第十九届全国低温物理学术讨论会, 宁波
@@ -145,6 +153,8 @@ author_profile: true
   10/30 – 11/03/2005, 50th Magnetism & Magnetic Materials Conference, San Jose CA, USA
 
 ### OTHER INVITED TALKS
+* Spin Wave Polarization & Dissipation: from classical to quantum  
+  6/23/2025, 南方科技大学
 * Antiferromagnetic Resonance Revisited  
   06/17/2024, 中山大学
 * Antiferromagnetic Resonance Revisited  

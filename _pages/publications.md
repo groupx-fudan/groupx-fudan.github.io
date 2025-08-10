@@ -7,6 +7,8 @@ author_profile: true
 
 ## Preprints
 
+1. Liu, Y. & __Xiao, J.__ Wave Computing based on Dynamical Networks: Applications in Optimization Problems. [Preprint (2025)](https://doi.org/10.48550/arXiv.2508.05014).
+
 1. Liu, Y. & __Xiao, J.__ Alternating Spintronics: Capacitive Behavior of Spin Valves and Resonator Applications. [Preprint (2025)](https://doi.org/10.48550/arXiv.2506.21176).
 
 1. Wang, Y., Ma, R. & __Xiao, J.__ Anatomy of Spin Wave Polarization in Ferromagnets. [Preprint (2025)](https://doi.org/10.48550/arXiv.2502.13549).

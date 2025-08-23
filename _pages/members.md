@@ -16,8 +16,10 @@ author_profile: true
 
 * [Xiao, Jiang / 肖江](../_members/xiaojiang.md)
 
-### Ph. D. Students
+### Graduate Students
 
+* Xu, Congrui / 许从睿 (2025 ~)
+* Zeng, Xiangshan / 曾祥山  (2025 ~)
 * Huang, Rongzhi / 黄荣郅 (2023 ~ )
 * Ma, Ruoban / 马若般 (2023 ~)
 * Xia, Zian / 夏子安 (2020 ~)
@@ -27,10 +29,7 @@ author_profile: true
 
 ### Undergraduates
 
-* Xu, Congrui / 许从睿 / Undergrad. (2025 ~)
-* Zeng, Xiangshan / 曾祥山 / Undergrad. (2024 ~)
 * Zhu, Yanxiang / 祝彦翔 / Undergrad. (2024 ~)
-* Wang, Wei / 王炜 / Undergrad. (2024 ~)
 
 ### Postdocs
 
@@ -38,6 +37,7 @@ author_profile: true
 
 ### Alumni
 
+* Wang, Wei / 王炜 / Undergrad. (2024 ~ 2025)
 * Guo, Ruijie / 郭睿杰 / Undergrad. (2024)
 * Zhang, Yihan / 张逸涵 / Undergrad. (2024)
 * Sha, Beiyao / 沙贝瑶 / Undergrad. (2024)

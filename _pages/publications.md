@@ -7,7 +7,6 @@ author_profile: true
 
 ## Preprints
 
-1. Liu, Y. & __Xiao, J.__ Wave Computing based on Dynamical Networks: Applications in Optimization Problems. [Preprint (2025)](https://doi.org/10.48550/arXiv.2508.05014).
 
 1. Liu, Y. & __Xiao, J.__ Alternating Spintronics: Capacitive Behavior of Spin Valves and Resonator Applications. [Preprint (2025)](https://doi.org/10.48550/arXiv.2506.21176).
 
@@ -17,6 +16,7 @@ author_profile: true
 
 ## Published
 
+1. Liu, Y. & __Xiao, J.__ Wave Computing based on Dynamical Networks: Applications in Optimization Problems. To appear on Physical Review Applied  (2025) [Preprint](https://doi.org/10.48550/arXiv.2508.05014).
 1. Wang, J. & __Xiao, J.__ Micromagnetic Study of the Dipolar-Exchange Spin Waves in Antiferromagnetic Thin Films. To appear on Chinese Physics B (2025) [Preprint](https://doi.org/10.48550/arXiv.2505.13970).
 1. Guo, J. et al. Tunable Bifurcation of Magnetic Anisotropy and Bi-Oriented Antiferromagnetic Order in Kagome Metal GdTi<sub>3</sub>Bi<sub>4</sub>. [_Phys. Rev. Lett._ 134, 226704 (2025)](https://link.aps.org/doi/10.1103/mryp-krmp).
 1. Wang, Y. et al. Controllable Highly Oriented Skyrmion Track Array in Bulk Fe<sub>3</sub>GaTe<sub>2</sub>. [_Phys. Rev. X_ 15, 021032 (2025)](https://doi.org/10.1103/PhysRevX.15.021032).

@@ -11,6 +11,8 @@ permalink: /teaching/Fudan_Courses
 This is a description of a teaching experience. You can use markdown like any other post.
 
 ### Quantum Mecahnics I | 量子力学 I
+* 2025 Fall
+* 2025 Spring (for math major)
 * 2023 Fall
 * 2023 Spring (for math major)
 * 2021 Fall

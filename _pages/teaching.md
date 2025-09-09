@@ -8,12 +8,12 @@ author_profile: true
 ### Fudan Courses
 
 1. Quantum Mecahnics I / 量子力学 I  
-   Fall: 2023, 2021, 2020, 2018, 2016, 2014, 2012 (as teaching assistant for Prof. Su Ruken)  
+   Fall: 2025, 2023, 2021, 2020, 2018, 2016, 2014, 2012 (as teaching assistant for Prof. Su Ruken)  
    Spring (for math major): 2025, 2023 
 
 1. Quantum Mechanics II / 量子力学 II  
    Fall (for graduate students): 2017, 2015  
-   Spring: 2022, 2021, 2020, 2019
+   Spring: 2024, 2022, 2021, 2020, 2019
 
 1. Advanced Electrodynamics / 高等电动力学 (Graduate course)  
    Spring: 2013, 2011, 2010

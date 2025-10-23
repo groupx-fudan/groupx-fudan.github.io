@@ -16,8 +16,9 @@ author_profile: true
 
 ## Published
 
-1. Liu, Y. & __Xiao, J.__ Wave Computing based on Dynamical Networks: Applications in Optimization Problems. To appear on Physical Review Applied  (2025) [Preprint](https://doi.org/10.48550/arXiv.2508.05014).
-1. Wang, J. & __Xiao, J.__ Micromagnetic Study of the Dipolar-Exchange Spin Waves in Antiferromagnetic Thin Films. To appear on Chinese Physics B (2025) [Preprint](https://doi.org/10.48550/arXiv.2505.13970).
+1. __Xiao, J.__ Diagnosing exotic order in van der Waals magnets via magnons. [_Sci. China Phys. Mech. Astron._ 68, 127531 (2025)](https://www.sciengine.com/10.1007/s11433-025-2792-0).
+1. Liu, Y. & __Xiao, J.__ Wave computing based on dynamical networks: Applications in optimization problems. [_Phys. Rev. Applied_ 24, 034082 (2025)](https://link.aps.org/doi/10.1103/xztx-sf2h).
+1. Wang, J. & __Xiao, J.__ Micromagnetic study of the dipolar-exchange spin waves in antiferromagnetic thin films. [_Chinese Phys. B_ 34, 107505 (2025)](https://doi.org/10.1088/1674-1056/addaa4).
 1. Guo, J. et al. Tunable Bifurcation of Magnetic Anisotropy and Bi-Oriented Antiferromagnetic Order in Kagome Metal GdTi<sub>3</sub>Bi<sub>4</sub>. [_Phys. Rev. Lett._ 134, 226704 (2025)](https://link.aps.org/doi/10.1103/mryp-krmp).
 1. Wang, Y. et al. Controllable Highly Oriented Skyrmion Track Array in Bulk Fe<sub>3</sub>GaTe<sub>2</sub>. [_Phys. Rev. X_ 15, 021032 (2025)](https://doi.org/10.1103/PhysRevX.15.021032).
 1. Wang, Y., Wang, J., Ma, R. & __Xiao, J.__ Connection between spin-wave polarization and dissipation. [_Phys. Rev. B_ 111, 134431 (2025)](https://link.aps.org/doi/10.1103/PhysRevB.111.134431)
@@ -54,14 +55,14 @@ author_profile: true
 1. Liu, C. et al. Current-controlled propagation of spin waves in antiparallel, coupled domains. [_Nature Nanotechnology_ 1 (2019)](https://www.nature.com/articles/s41565-019-0429-7).
 1. Daniels, M. W., Yu, W., Cheng, R., __Xiao, J.__ & Xiao, D. Topological spin Hall effects and tunable skyrmion Hall effects in uniaxial antiferromagnetic insulators. [_Phys. Rev. B_ 99, 224433 (2019)](https://link.aps.org/doi/10.1103/PhysRevB.99.224433).
 1. Alam, M. S. et al. Temperature control of spin wave propagation over 100 μm distance in 100 nm-thick YIG film. [_Physics Letters A_ 383, 366–368 (2019)](http://www.sciencedirect.com/science/article/pii/S0375960118310624).
-1. Zhou, L. et al. Observation of spin-orbit magnetoresistance in metallic thin films on magnetic insulators. _Science Advances_ 4, eaao3318 (2018).
-1. Yu, W., Lan, J. & __Xiao, J.__ Polarization-selective spin wave driven domain-wall motion in antiferromagnets. _Phys. Rev. B_ 98, 144422 (2018).
-1. Tserkovnyak, Y. & __Xiao, J.__ Energy Storage via Topological Spin Textures. _Phys. Rev. Lett._  121, 127701 (2018).
-1. Tong, Q., Liu, F., __Xiao, J.__ & Yao, W. Skyrmions in the Moiré of van der Waals 2D Magnets. _Nano Letters_ (2018).
-1. Song, H., Xia, K. & __Xiao, J.__ Surface roughness modulated resistivity in copper thin films. _Science China Physics, Mechanics & Astronomy_ 61, (2018).
-1. Lin, H. et al. Unexpected Intermediate State Photoinduced in the Metal-Insulator Transition of Submicrometer Phase-Separated Manganites. _Phys. Rev. Lett._  120, 267202 (2018).
-1. Li, Y.-M., __Xiao, J.__ & Chang, K. Topological Magnon Modes in Patterned Ferrimagnetic Insulator Thin Films. _Nano Letters_ (2018).
-1. Daniels, M. W., Cheng, R., Yu, W., __Xiao, J.__ & Xiao, D. Nonabelian magnonics in antiferromagnets. _Phys. Rev. B_ 98, 134450 (2018).
+1. Zhou, L. et al. Observation of spin-orbit magnetoresistance in metallic thin films on magnetic insulators. [_Science Advances_ 4, eaao3318 (2018)](http://advances.sciencemag.org/lookup/doi/10.1126/sciadv.aao3318).
+1. Yu, W., Lan, J. & __Xiao, J.__ Polarization-selective spin wave driven domain-wall motion in antiferromagnets. [_Phys. Rev. B_ 98, 144422 (2018)](https://link.aps.org/doi/10.1103/PhysRevB.98.144422).
+1. Tserkovnyak, Y. & __Xiao, J.__ Energy Storage via Topological Spin Textures. [_Phys. Rev. Lett._  121, 127701 (2018)](https://link.aps.org/doi/10.1103/PhysRevLett.121.127701).
+1. Tong, Q., Liu, F., __Xiao, J.__ & Yao, W. Skyrmions in the Moiré of van der Waals 2D Magnets. [_Nano Letters_ (2018)](http://pubs.acs.org/doi/10.1021/acs.nanolett.8b03315).
+1. Song, H., Xia, K. & __Xiao, J.__ Surface roughness modulated resistivity in copper thin films. [_Science China Physics, Mechanics & Astronomy_ 61, (2018)](http://link.springer.com/10.1007/s11433-018-9199-8).
+1. Lin, H. et al. Unexpected Intermediate State Photoinduced in the Metal-Insulator Transition of Submicrometer Phase-Separated Manganites. [_Phys. Rev. Lett._  120, 267202 (2018)](https://link.aps.org/doi/10.1103/PhysRevLett.120.267202).
+1. Li, Y.-M., __Xiao, J.__ & Chang, K. Topological Magnon Modes in Patterned Ferrimagnetic Insulator Thin Films. [_Nano Letters_ (2018)](http://pubs.acs.org/doi/10.1021/acs.nanolett.8b00492).
+1. Daniels, M. W., Cheng, R., Yu, W., __Xiao, J.__ & Xiao, D. Nonabelian magnonics in antiferromagnets. [_Phys. Rev. B_ 98, 134450 (2018)](https://link.aps.org/doi/10.1103/PhysRevB.98.134450).
 1. Lan, J., Yu, W. & __Xiao, J.__ Antiferromagnetic domain wall as spin wave polarizer and retarder. _Nature Communications_ 8, 178 (2017).
 1. Grigoryan, V. L., __Xiao, J.__, Wang, X. & Xia, K. Anomalous Hall effect scaling in ferromagnetic thin films. _Phys. Rev. B_ 96, 144426 (2017).
 1. An, X.-T. et al. Realization of Valley and Spin Pumps by Scattering at Nonmagnetic Disorders. _Phys. Rev. Lett._  118, 096602 (2017).

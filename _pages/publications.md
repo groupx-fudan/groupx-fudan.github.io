@@ -8,14 +8,13 @@ author_profile: true
 ## Preprints
 
 
-1. Liu, Y. & __Xiao, J.__ Alternating Spintronics: Capacitive Behavior of Spin Valves and Resonator Applications. [Preprint (2025)](https://doi.org/10.48550/arXiv.2506.21176).
-
 1. Wang, Y., Ma, R. & __Xiao, J.__ Anatomy of Spin Wave Polarization in Ferromagnets. [Preprint (2025)](https://doi.org/10.48550/arXiv.2502.13549).
 
 ---
 
 ## Published
 
+1. Liu, Y. & __Xiao, J.__ Alternating Spintronics: Capacitive Behavior of Spin Valves and Resonator Applications. To Appear on _Phys. Rev. B_ [Preprint (2025)](https://doi.org/10.48550/arXiv.2506.21176).
 1. __Xiao, J.__ Diagnosing exotic order in van der Waals magnets via magnons. [_Sci. China Phys. Mech. Astron._ 68, 127531 (2025)](https://www.sciengine.com/10.1007/s11433-025-2792-0).
 1. Liu, Y. & __Xiao, J.__ Wave computing based on dynamical networks: Applications in optimization problems. [_Phys. Rev. Applied_ 24, 034082 (2025)](https://link.aps.org/doi/10.1103/xztx-sf2h).
 1. Wang, J. & __Xiao, J.__ Micromagnetic study of the dipolar-exchange spin waves in antiferromagnetic thin films. [_Chinese Phys. B_ 34, 107505 (2025)](https://doi.org/10.1088/1674-1056/addaa4).

@@ -9,7 +9,7 @@ author_profile: true
 
 ## Preprints
 
-
+1. Xia, Z., Ma, R., Shu, C., Yuan, H. & __Xiao, J.__ Quantum Entanglement and Teleportation of Magnons in Coupled Spin Chains. [arXiv (2026)](https://doi.org/10.48550/ARXIV.2601.13242).
 1. Wang, Y., Ma, R. & __Xiao, J.__ Anatomy of Spin Wave Polarization in Ferromagnets. [arXiv (2025)](https://doi.org/10.48550/arXiv.2502.13549).
 
 ---

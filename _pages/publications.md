@@ -11,10 +11,13 @@ author_profile: true
 
 1. Xia, Z., Ma, R., Shu, C., Yuan, H. & __Xiao, J.__ Quantum Entanglement and Teleportation of Magnons in Coupled Spin Chains. [arXiv (2026)](https://doi.org/10.48550/ARXIV.2601.13242).
 1. Wang, Y., Ma, R. & __Xiao, J.__ Anatomy of Spin Wave Polarization in Ferromagnets. [arXiv (2025)](https://doi.org/10.48550/arXiv.2502.13549).
+1. __Xiao, J.__ & Bauer, G. E. W. Transport between metals and magnetic insulators. [arXiv (2015)](http://arxiv.org/abs/1508.02486).
+1. Wang, X., __Xiao, J.__, Manchon, A. & Maekawa, S. Scaling Law of Confined Spin-Hall Effect. [arXiv (2014)](http://arxiv.org/abs/1407.8278).
+
 
 ---
 
-## Published
+## Published Papers
 
 1. Chen, D. et al. Long-distance spin transport in frustrated hyperkagome magnet Gd<sub>3</sub>Ga<sub>5</sub>O<sub>12</sub>. [_Nat. Commun._ (2026)](https://doi.org/10.1038/s41467-025-68203-4).
 1. Liu, Y. & __Xiao, J.__ Alternating spintronics: Capacitive behavior of spin valves and resonator applications. [_Phys. Rev. B_ 113, L020403 (2026)](https://doi.org/10.1103/c6b8-mrds).
@@ -69,16 +72,15 @@ author_profile: true
 40. Grigoryan, V. L., __Xiao, J.__, Wang, X. & Xia, K. Anomalous Hall effect scaling in ferromagnetic thin films. [_Phys. Rev. B_ 96, 144426 (2017)](https://link.aps.org/doi/10.1103/PhysRevB.96.144426).
 41. An, X.-T. et al. Realization of Valley and Spin Pumps by Scattering at Nonmagnetic Disorders. [_Phys. Rev. Lett._  118, 096602 (2017)](http://link.aps.org/doi/10.1103/PhysRevLett.118.096602).
 42. Yu, W., Lan, J., Wu, R. & __Xiao, J.__ Magnetic Snell’s law and spin-wave fiber with Dzyaloshinskii-Moriya interaction. [_Phys. Rev. B_ 94, 140410 (2016)](http://link.aps.org/doi/10.1103/PhysRevB.94.140410).
-43. Shao, J. et al. Emerging single-phase state in small manganite nanodisks. _PNAS_ 113, 9228–9231 (2016).
-44. Johnson, B. et al. Photo-spin-voltaic effect. _Nature Physics_ 12, 861 (2016).
-45. Zhou, L., Grigoryan, V. L., Maekawa, S., Wang, X. & __Xiao, J.__ Spin Hall effect by surface roughness. _Phys. Rev. B_ 91, 045407 (2015).
-46. Lan, J., Yu, W., Wu, R. & __Xiao, J.__ Spin-Wave Diode. _Phys. Rev. X_ 5, 041049 (2015).
-47. Daniels, M. W., Guo, W., Stocks, G. M., Xiao, D. & __Xiao, J.__ Spin-transfer torque induced spin waves in antiferromagnetic insulators. _New J. Phys._ 17, 103039 (2015).
-48. Grigoryan, V. L., Guo, W., Bauer, G. E. W. & __Xiao, J.__ Intrinsic magnetoresistance in metal films on ferromagnetic insulators. _Phys. Rev. B_ 90, 161412 (2014).
+43. Shao, J. et al. Emerging single-phase state in small manganite nanodisks. [_PNAS_ 113, 9228–9231 (2016)](http://www.pnas.org/content/113/33/9228).
+44. Johnson, B. et al. Photo-spin-voltaic effect. [_Nature Physics_ 12, 861 (2016)](https://www.nature.com/articles/nphys3738).
+45. Zhou, L., Grigoryan, V. L., Maekawa, S., Wang, X. & __Xiao, J.__ Spin Hall effect by surface roughness. [_Phys. Rev. B_ 91, 045407 (2015)](http://link.aps.org/doi/10.1103/PhysRevB.91.045407).
+46. Lan, J., Yu, W., Wu, R. & __Xiao, J.__ Spin-Wave Diode. [_Phys. Rev. X_ 5, 041049 (2015)](http://link.aps.org/doi/10.1103/PhysRevX.5.041049).
+47. Daniels, M. W., Guo, W., Stocks, G. M., Xiao, D. & __Xiao, J.__ Spin-transfer torque induced spin waves in antiferromagnetic insulators. [_New J. Phys._ 17, 103039 (2015)](http://stacks.iop.org/1367-2630/17/i=10/a=103039).
+48. Grigoryan, V. L., Guo, W., Bauer, G. E. W. & __Xiao, J.__ Intrinsic magnetoresistance in metal films on ferromagnetic insulators. [_Phys. Rev. B_ 90, 161412 (2014)](http://link.aps.org/doi/10.1103/PhysRevB.90.161412).
 49. Cheng, R., __Xiao, J.__, Niu, Q. & Brataas, A. Spin Pumping and Spin-Transfer Torques in Antiferromagnets. _Phys. Rev. Lett._  113, 057601 (2014).
 50. Zhou, Y., __Xiao, J.__, Bauer, G. E. W. & Zhang, F. C. Field-free synthetic-ferromagnet spin torque oscillator. _Phys. Rev. B_ 87, 020409 (2013).
 51. Zhou, Y., Jiao, H., Chen, Y., Bauer, G. E. W. & __Xiao, J.__ Current-induced spin-wave excitation in Pt/YIG bilayer. _Phys. Rev. B_ 88, 184403 (2013).
-52. __Xiao, J.__, Zhou, Y. & Bauer, G. E. W. Chapter Two - Spin-Wave Excitation in Magnetic Insulator Thin Films by Spin-Transfer Torque. in Solid State Physics (eds. Wu, M. & Hoffmann, A.) vol. 64 29–51 (Academic Press, 2013).
 53. Weiler, M. et al. Experimental Test of the Spin Mixing Interface Conductivity Concept. _Phys. Rev. Lett._  111, 176601 (2013).
 54. Wang, X., __Xiao, J.__, Manchon, A. & Maekawa, S. Spin-Hall conductivity and electric polarization in metallic thin films. _Phys. Rev. B_ 87, 081407 (2013).
 55. Schreier, M. et al. Magnon, phonon, and electron temperature profiles and the spin Seebeck effect in magnetic insulator/normal metal hybrid structures. _Phys. Rev. B_ 88, 094410 (2013).
@@ -97,3 +99,7 @@ author_profile: true
 68. __Xiao, J.__, Zangwill, A. & Stiles, M. D. Macrospin models of spin transfer dynamics. _Phys. Rev. B_ 72, 014446–13 (2005).
 69. __Xiao, J.__, Zangwill, A. & Stiles, M. D. Boltzmann test of Slonczewski’s theory of spin-transfer torque. _Phys. Rev. B_ 70, 172405 (2004).
 70. Stiles, M. D., __Xiao, J.__ & Zangwill, A. Phenomenological theory of current-induced magnetization precession. _Phys. Rev. B_ 69, 054408 (2004).
+
+## Book Chapters
+
+1. __Xiao, J.__, Zhou, Y. & Bauer, G. E. W. Chapter Two - Spin-Wave Excitation in Magnetic Insulator Thin Films by Spin-Transfer Torque. in Solid State Physics (eds. Wu, M. & Hoffmann, A.) vol. 64 29–51 (Academic Press, 2013).

@@ -102,4 +102,5 @@ author_profile: true
 
 ## Book Chapters
 
+1. __Xiao, J.__ Spin Seebeck Effect. in Spintronics for Next Generation Innovative Devices 125–140 (John Wiley & Sons, Ltd, 2015) [link](https://onlinelibrary.wiley.com/doi/10.1002/9781118751886.ch7). 
 1. __Xiao, J.__, Zhou, Y. & Bauer, G. E. W. Chapter Two - Spin-Wave Excitation in Magnetic Insulator Thin Films by Spin-Transfer Torque. in Solid State Physics (eds. Wu, M. & Hoffmann, A.) vol. 64 29–51 (Academic Press, 2013).

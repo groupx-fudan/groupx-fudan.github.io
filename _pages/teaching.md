@@ -28,7 +28,7 @@ author_profile: true
    Laughlin, R. B.  (Basic Books, 2005).
 
 1. 2025 Spring: Sleeping Beauties in Theoretical Physics: 26 Surprising Insights 
-   Padmanabhan, T. (Springer International Publishing : Imprint: Springer, Cham, 2015).
+   Padmanabhan, T. (Springer, Cham, 2015).
 
 1. 2024 Fall: Probability and computing 
    Mitzenmacher, M. & Upfal, E. Probability and Computing. (Cambridge University Press, Cambridge, United Kingdom ; New York, NY, USA, 2017).

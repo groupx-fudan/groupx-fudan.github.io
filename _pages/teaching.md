@@ -24,7 +24,7 @@ author_profile: true
 
 ### Group X Courses
 
-1. A Different Universe: Reinventing Physics From the Bottom Down
+1. 2025 Fall: A Different Universe: Reinventing Physics From the Bottom Down
    Laughlin, R. B.  (Basic Books, 2005).
 
 1. 2025 Spring: Sleeping Beauties in Theoretical Physics: 26 Surprising Insights 

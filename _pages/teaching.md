@@ -12,8 +12,8 @@ author_profile: true
    Spring (for math major): 2025, 2023 
 
 1. Quantum Mechanics II / 量子力学 II  
+   Spring: 2026, 2024, 2022, 2021, 2020, 2019
    Fall (for graduate students): 2017, 2015  
-   Spring: 2024, 2022, 2021, 2020, 2019
 
 1. Advanced Electrodynamics / 高等电动力学 (Graduate course)  
    Spring: 2013, 2011, 2010
@@ -23,6 +23,12 @@ author_profile: true
    Spring (math major): 2014, 2012 
 
 ### Group X Courses
+
+1. A Different Universe: Reinventing Physics From the Bottom Down
+   Laughlin, R. B.  (Basic Books, 2005).
+
+1. 2025 Spring: Sleeping Beauties in Theoretical Physics: 26 Surprising Insights 
+   Padmanabhan, T. (Springer International Publishing : Imprint: Springer, Cham, 2015).
 
 1. 2024 Fall: Probability and computing 
    Mitzenmacher, M. & Upfal, E. Probability and Computing. (Cambridge University Press, Cambridge, United Kingdom ; New York, NY, USA, 2017).

@@ -10,7 +10,6 @@ author_profile: true
 ## Preprints
 
 1. Xia, Z., Ma, R., Shu, C., Yuan, H. & __Xiao, J.__ Quantum Entanglement and Teleportation of Magnons in Coupled Spin Chains. [arXiv (2026)](https://doi.org/10.48550/ARXIV.2601.13242).
-1. Wang, Y., Ma, R. & __Xiao, J.__ Anatomy of Spin Wave Polarization in Ferromagnets. [arXiv (2025)](https://doi.org/10.48550/arXiv.2502.13549).
 1. __Xiao, J.__ & Bauer, G. E. W. Transport between metals and magnetic insulators. [arXiv (2015)](http://arxiv.org/abs/1508.02486).
 1. Wang, X., __Xiao, J.__, Manchon, A. & Maekawa, S. Scaling Law of Confined Spin-Hall Effect. [arXiv (2014)](http://arxiv.org/abs/1407.8278).
 
@@ -19,6 +18,7 @@ author_profile: true
 
 ## Published Papers
 
+1. Wang, Y., Ma, R. & __Xiao, J.__ Anatomy of Spin Wave Polarization in Ferromagnets. To Appear on Journal of Magnetism and Magnetic Materials [arXiv (2025)](https://doi.org/10.48550/arXiv.2502.13549).
 1. Chen, D. et al. Long-distance spin transport in frustrated hyperkagome magnet Gd<sub>3</sub>Ga<sub>5</sub>O<sub>12</sub>. [_Nat. Commun._ (2026)](https://doi.org/10.1038/s41467-025-68203-4).
 1. Liu, Y. & __Xiao, J.__ Alternating spintronics: Capacitive behavior of spin valves and resonator applications. [_Phys. Rev. B_ 113, L020403 (2026)](https://doi.org/10.1103/c6b8-mrds).
 3. __Xiao, J.__ Diagnosing exotic order in van der Waals magnets via magnons. [_Sci. China Phys. Mech. Astron._ 68, 127531 (2025)](https://www.sciengine.com/10.1007/s11433-025-2792-0).

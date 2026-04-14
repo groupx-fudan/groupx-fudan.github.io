@@ -18,8 +18,8 @@ author_profile: true
 
 ## Published Papers
 
-1. Wang, Y., Ma, R. & __Xiao, J.__ Anatomy of Spin Wave Polarization in Ferromagnets. To Appear on Journal of Magnetism and Magnetic Materials [arXiv (2025)](https://doi.org/10.48550/arXiv.2502.13549).
-1. Chen, D. et al. Long-distance spin transport in frustrated hyperkagome magnet Gd<sub>3</sub>Ga<sub>5</sub>O<sub>12</sub>. [_Nat. Commun._ (2026)](https://doi.org/10.1038/s41467-025-68203-4).
+1. Wang, Y., Ma, R. & __Xiao, J.__ Anatomy of spin wave polarization in ferromagnets. [_Journal of Magnetism and Magnetic Materials_ 649, 174112 (2026)](https://doi.org/10.1016/j.jmmm.2026.174112).
+1. Chen, D. et al. Long-distance spin transport in frustrated hyperkagome magnet Gd3Ga5O12. [_Nat Commun_ 17, 1465 (2026)](https://doi.org/10.1038/s41467-025-68203-4).
 1. Liu, Y. & __Xiao, J.__ Alternating spintronics: Capacitive behavior of spin valves and resonator applications. [_Phys. Rev. B_ 113, L020403 (2026)](https://doi.org/10.1103/c6b8-mrds).
 3. __Xiao, J.__ Diagnosing exotic order in van der Waals magnets via magnons. [_Sci. China Phys. Mech. Astron._ 68, 127531 (2025)](https://www.sciengine.com/10.1007/s11433-025-2792-0).
 4. Liu, Y. & __Xiao, J.__ Wave computing based on dynamical networks: Applications in optimization problems. [_Phys. Rev. Applied_ 24, 034082 (2025)](https://link.aps.org/doi/10.1103/xztx-sf2h).

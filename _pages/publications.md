@@ -78,27 +78,26 @@ author_profile: true
 46. Lan, J., Yu, W., Wu, R. & __Xiao, J.__ Spin-Wave Diode. [_Phys. Rev. X_ 5, 041049 (2015)](http://link.aps.org/doi/10.1103/PhysRevX.5.041049).
 47. Daniels, M. W., Guo, W., Stocks, G. M., Xiao, D. & __Xiao, J.__ Spin-transfer torque induced spin waves in antiferromagnetic insulators. [_New J. Phys._ 17, 103039 (2015)](http://stacks.iop.org/1367-2630/17/i=10/a=103039).
 48. Grigoryan, V. L., Guo, W., Bauer, G. E. W. & __Xiao, J.__ Intrinsic magnetoresistance in metal films on ferromagnetic insulators. [_Phys. Rev. B_ 90, 161412 (2014)](http://link.aps.org/doi/10.1103/PhysRevB.90.161412).
-49. Cheng, R., __Xiao, J.__, Niu, Q. & Brataas, A. Spin Pumping and Spin-Transfer Torques in Antiferromagnets. _Phys. Rev. Lett._  113, 057601 (2014).
-50. Zhou, Y., __Xiao, J.__, Bauer, G. E. W. & Zhang, F. C. Field-free synthetic-ferromagnet spin torque oscillator. _Phys. Rev. B_ 87, 020409 (2013).
+49. Cheng, R., __Xiao, J.__, Niu, Q. & Brataas, A. Spin Pumping and Spin-Transfer Torques in Antiferromagnets. [_Phys. Rev. Lett._  113, 057601 (2014)](http://link.aps.org/doi/10.1103/PhysRevLett.113.057601).
+50. Zhou, Y., __Xiao, J.__, Bauer, G. E. W. & Zhang, F. C. Field-free synthetic-ferromagnet spin torque oscillator. [_Phys. Rev. B_ 87, 020409 (2013)](http://link.aps.org/doi/10.1103/PhysRevB.87.020409).
 51. Zhou, Y., Jiao, H., Chen, Y., Bauer, G. E. W. & __Xiao, J.__ Current-induced spin-wave excitation in Pt/YIG bilayer. _Phys. Rev. B_ 88, 184403 (2013).
-53. Weiler, M. et al. Experimental Test of the Spin Mixing Interface Conductivity Concept. _Phys. Rev. Lett._  111, 176601 (2013).
-54. Wang, X., __Xiao, J.__, Manchon, A. & Maekawa, S. Spin-Hall conductivity and electric polarization in metallic thin films. _Phys. Rev. B_ 87, 081407 (2013).
-55. Schreier, M. et al. Magnon, phonon, and electron temperature profiles and the spin Seebeck effect in magnetic insulator/normal metal hybrid structures. _Phys. Rev. B_ 88, 094410 (2013).
-56. Grigoryan, V. & __Xiao, J.__ Dynamical spin-spin coupling of quantum dots. _EPL_ 104, 17008 (2013).
-57. __Xiao, J.__ & Bauer, G. E. W. Spin-Wave Excitation in Magnetic Insulators by Spin-Transfer Torque. _Phys. Rev. Lett._  108, 217204 (2012).
-58. Uchida, K. et al. Thermal spin pumping and magnon-phonon-mediated spin-Seebeck effect. _Journal of Applied Physics_ 111, 103903-103903–12 (2012).
-59. __Xiao, J.__, Bauer, G. E. W., Uchida, K., Saitoh, E. & Maekawa, S. Theory of magnon-driven spin Seebeck effect. _Phys. Rev. B_ 81, 214418 (2010).
-60. __Xiao, J.__, Bauer, G. E. W., Uchida, K., Saitoh, E. & Maekawa, S. Erratum: Theory of magnon-driven spin Seebeck effect. _Phys. Rev. B_ 82, 099904 (2010).
-61. Uchida, K. et al. Spin Seebeck insulator. _Nat Mater_ 9, 894–897 (2010).
-62. __Xiao, J.__, Bauer, G. E. W., Maekawa, S. & Brataas, A. Charge pumping and the colored thermal voltage noise in spin valves. _Phys. Rev. B_ 79, 174415–9 (2009).
-63. __Xiao, J.__, Bauer, G. E. W. & Brataas, A. Charge pumping in magnetic tunnel junctions: Scattering theory. _Phys. Rev. B_ 77, 180407–4 (2008).
-64. __Xiao, J.__, Bauer, G. E. W. & Brataas, A. Spin-transfer torque in magnetic tunnel junctions: Scattering theory. _Phys. Rev. B_ 77, 224419 (2008).
-65. __Xiao, J.__, Zangwill, A. & Stiles, M. D. A numerical method to solve the Boltzmann equation for a spin valve. _The European Physical Journal B_ 59, 415–427 (2007).
-66. Theodoropoulou, N. et al. Ballistic versus diffusive transport in current-induced magnetization switching. _Phys. Rev. B_ 76, 220408–4 (2007).
-67. __Xiao, J.__, Zangwill, A. & Stiles, M. D. Spin-transfer torque for continuously variable magnetization. _Phys. Rev. B_ 73, 054428–10 (2006).
-68. __Xiao, J.__, Zangwill, A. & Stiles, M. D. Macrospin models of spin transfer dynamics. _Phys. Rev. B_ 72, 014446–13 (2005).
-69. __Xiao, J.__, Zangwill, A. & Stiles, M. D. Boltzmann test of Slonczewski’s theory of spin-transfer torque. _Phys. Rev. B_ 70, 172405 (2004).
-70. Stiles, M. D., __Xiao, J.__ & Zangwill, A. Phenomenological theory of current-induced magnetization precession. _Phys. Rev. B_ 69, 054408 (2004).
+53. Weiler, M. et al. Experimental Test of the Spin Mixing Interface Conductivity Concept. [_Phys. Rev. Lett._  111, 176601 (2013)](http://link.aps.org/doi/10.1103/PhysRevLett.111.176601).
+54. Wang, X., __Xiao, J.__, Manchon, A. & Maekawa, S. Spin-Hall conductivity and electric polarization in metallic thin films. [_Phys. Rev. B_ 87, 081407 (2013)](http://link.aps.org/doi/10.1103/PhysRevB.87.081407).
+55. Schreier, M. et al. Magnon, phonon, and electron temperature profiles and the spin Seebeck effect in magnetic insulator/normal metal hybrid structures. [_Phys. Rev. B_ 88, 094410 (2013)](http://link.aps.org/doi/10.1103/PhysRevB.88.094410).
+56. Grigoryan, V. & __Xiao, J.__ Dynamical spin-spin coupling of quantum dots. [_EPL_ 104, 17008 (2013)](http://iopscience.iop.org/0295-5075/104/1/17008).
+57. __Xiao, J.__ & Bauer, G. E. W. Spin-Wave Excitation in Magnetic Insulators by Spin-Transfer Torque. [_Phys. Rev. Lett._  108, 217204 (2012)](http://link.aps.org/doi/10.1103/PhysRevLett.108.217204).
+58. Uchida, K. et al. Thermal spin pumping and magnon-phonon-mediated spin-Seebeck effect. [_Journal of Applied Physics_ 111, 103903-103903–12 (2012)](http://jap.aip.org/resource/1/japiau/v111/i10/p103903_s1).
+59. __Xiao, J.__, Bauer, G. E. W., Uchida, K., Saitoh, E. & Maekawa, S. Theory of magnon-driven spin Seebeck effect. [_Phys. Rev. B_ 81, 214418 (2010)](http://link.aps.org/doi/10.1103/PhysRevB.81.214418).
+61. Uchida, K. et al. Spin Seebeck insulator. [_Nat Mater_ 9, 894–897 (2010)](http://dx.doi.org/10.1038/nmat2856).
+62. __Xiao, J.__, Bauer, G. E. W., Maekawa, S. & Brataas, A. Charge pumping and the colored thermal voltage noise in spin valves. [_Phys. Rev. B_ 79, 174415–9 (2009)](http://link.aps.org/abstract/PRB/v79/e174415).
+63. __Xiao, J.__, Bauer, G. E. W. & Brataas, A. Charge pumping in magnetic tunnel junctions: Scattering theory. [_Phys. Rev. B_ 77, 180407–4 (2008)](http://link.aps.org/abstract/PRB/v77/e180407).
+64. __Xiao, J.__, Bauer, G. E. W. & Brataas, A. Spin-transfer torque in magnetic tunnel junctions: Scattering theory. [_Phys. Rev. B_ 77, 224419 (2008)](http://dx.doi.org/10.1103/PhysRevB.77.224419).
+65. __Xiao, J.__, Zangwill, A. & Stiles, M. D. A numerical method to solve the Boltzmann equation for a spin valve. [_The European Physical Journal B_ 59, 415–427 (2007)](http://dx.doi.org/10.1140/epjb/e2007-00004-0).
+66. Theodoropoulou, N. et al. Ballistic versus diffusive transport in current-induced magnetization switching. [_Phys. Rev. B_ 76, 220408–4 (2007)](http://link.aps.org/abstract/PRB/v76/e220408).
+67. __Xiao, J.__, Zangwill, A. & Stiles, M. D. Spin-transfer torque for continuously variable magnetization. [_Phys. Rev. B_ 73, 054428–10 (2006)](http://link.aps.org/abstract/PRB/v73/e054428).
+68. __Xiao, J.__, Zangwill, A. & Stiles, M. D. Macrospin models of spin transfer dynamics. [_Phys. Rev. B_ 72, 014446–13 (2005)](http://link.aps.org/abstract/PRB/v72/e014446).
+69. __Xiao, J.__, Zangwill, A. & Stiles, M. D. Boltzmann test of Slonczewski’s theory of spin-transfer torque. [_Phys. Rev. B_ 70, 172405 (2004)](http://link.aps.org/abstract/PRB/v70/e172405).
+70. Stiles, M. D., __Xiao, J.__ & Zangwill, A. Phenomenological theory of current-induced magnetization precession. [_Phys. Rev. B_ 69, 054408 (2004)](http://link.aps.org/abstract/PRB/v69/e054408).
 
 ## Book Chapters
 

@@ -7,6 +7,8 @@ author_profile: true
 
 [Researcher Profile](https://webofscience.clarivate.cn/wos/author/record/B-1832-2008) on Web of Sciences
 
+[Google Scholar](https://scholar.google.com.br/citations?user=KR-JukUAAAAJ&hl=fi)
+
 ## Preprints
 
 1. Xia, Z., Ma, R., Shu, C., Yuan, H. & __Xiao, J.__ Quantum Entanglement and Teleportation of Magnons in Coupled Spin Chains. [arXiv (2026)](https://doi.org/10.48550/ARXIV.2601.13242).
